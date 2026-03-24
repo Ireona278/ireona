@@ -1,3 +1,47 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --bodyFont: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Inter", "Segoe UI", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  --headerFont: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Inter", "Segoe UI", "Malgun Gothic", sans-serif;
+}
+
+/* 1. 사이트 전체 설정: 줄 간격을 여기서 주지 마세요! */
+body {
+  font-family: var(--bodyFont) !important;
+  color: #222 !important;
+  line-height: normal !important; /* 일단 전체를 정상으로 돌립니다 */
+}
+
+/* 2. [핵심] 상단 메뉴(Breadcrumbs) 강제 교정 */
+/* 이 부분이 'Home > ...'를 일렬로 세웁니다. */
+nav.breadcrumbs, .breadcrumbs {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  line-height: 1 !important; /* 메뉴는 촘촘하게 */
+  margin-bottom: 2rem !important;
+  flex-wrap: nowrap !important;
+}
+
+.breadcrumbs a, .breadcrumbs span {
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+/* 3. [본질] 진짜 '글'이 있는 영역만 시원하게 벌립니다 (나무위키 스타일) */
+/* .article 내부의 요소들만 골라서 줄 간격을 줍니다. */
+.article p, 
+.article li, 
+.article blockquote,
+.article section {
+  line-height: 1.8 !important; /* 본문은 시원하게 */
+  margin-bottom: 1.5rem !important;
+}
+
+/* 4. 제목 설정 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--headerFont) !important;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}

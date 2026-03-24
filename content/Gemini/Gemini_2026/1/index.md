@@ -1,0 +1,111 @@
+---
+title: 1월
+---
+(짧) = 짧은 편인 대화
+
+(앞) = 앞의 대화 내용이 싹 날아가는 오류가 발생한 대화
+
+
+1일
+
+[-2026년이네.](https://gemini.google.com/share/d8408fc6475a)
+
+2일
+
+[-이봐, 너 말이야. 슈퍼 마리오 메이커 2라는 게임에서 월드 만들기 기능이란 게 있잖나. 슈마메2 내에서 업로드되는 월드 유형 비율 같은 걸 너는 알 수 있나?](https://gemini.google.com/share/aa476c0ba7ae)
+
+3일
+
+[-내가 슈마메2에서 만들고 있는 월드에 사용할 음악들을 정리해보는 시간을 가져보고자 한다.](https://gemini.google.com/share/3281b27e63c7)
+
+4일
+
+[-(짧)갑자기 이런 고민이 생겼다. 내가 스페셜 월드라고 이름 붙인 월드 말이다. 스페셜 월드라 부르는 게 적절한 건가.](https://gemini.google.com/share/5b5c341858c8)
+
+[-게임 번역 행동 3](https://gemini.google.com/share/2a6c49bbb757)
+
+5일
+
+[-잠을 잘 때 외에는 눕지 않는 것이 꼭 능사인 걸까.](https://gemini.google.com/share/cea5b87f32c4)
+
+6일
+
+[-OBS에서 소음 억제 필터를 사용할지 말지 고민이네. 확실히 잡음 제거 효과는 강력하긴 하지만 내 목소리 앞부분이 묵음 처리 되는 현상이 거슬리는 것도 사실이거든.](https://gemini.google.com/share/2a85027cf267)
+
+7일
+
+[-지금 현대인들 말이야 돈이란 걸 중력이라던가 공기라던가 그런 것과 비슷한 차원의 것으로 보거나 그것들 보다 더 중요하게 여기는 거 같지 않아?](https://gemini.google.com/share/20a73d76ac2c)
+
+[-어떤 사람에 대한 얘기를 해보고자 한다.](https://gemini.google.com/share/371d8ad8b69f)
+
+9일
+
+[-게임 번역 행동 4](https://gemini.google.com/share/9d874901b9f5)
+
+10일
+
+[-(짧)너 말이야. 혹시 슈퍼 마리오 월드(1990)에서 최종 보스전 중에 피치가 help 외칠 때 나오는 효과음의 음계 같은 걸 알고 있나?](https://gemini.google.com/share/fc6bcab4c195)
+
+11일
+
+[-(짧)슈퍼 마리오 월드(1990) 최종 보스 음악 말이야. 어떤 종류의 악기를 사용한 거지?](https://gemini.google.com/share/1250a3df69dd)
+
+[-슈마메2에서 예전에 만든 코스와 컨셉만 같게 하고 완전 새로 만든 코스일 경우 둘의 관계를 뭐라고 부를 수 있을까?](https://gemini.google.com/share/c6fa0a29c361)
+
+13일
+
+[-'머니코치 최준호 \[네이버 마케팅 1타\]'라는 유튜브 채널의 최준호.](https://gemini.google.com/share/6c857f6cb1c1)
+
+14일
+
+[-내가 슈마메2에서 내 입맛에 맞는 횡스크롤 액션 퍼즐 월드 같은 걸 만들어보려고 하는데 말이지.](https://gemini.google.com/share/14e1a359569a)
+[-(짧)유튜브 썸네일에 쓸 식별 잘 되는 숫자 폰트 추천 점](https://gemini.google.com/share/842d074dbe54)
+
+16일
+
+[-(짧)슈퍼 마리오 USA를 읽을 때 USA를 유 에스 에이로 읽나 유사로 읽나](https://gemini.google.com/share/283b9f988200)
+
+17일
+
+[-내가 유튜브 개인 채널을 운영하고 있는데. 채널에 올릴 동영상을 만들고 난 뒤에 업로드 하고 그 후에 동영상은 어떻게 취급할지를 고민 중이다.](https://gemini.google.com/share/66e213835574)
+
+18일
+
+[-내가, 유튜브 개인 채널 운영하기도 하는 사람인데. 좀 돌아보면서 앞으로는 어떻게 할지를 생각해보는 시간을 가지고 싶은 거 같다.](https://gemini.google.com/share/19f2e6103d30)
+
+19일
+
+[-이런 걸 뭐라고 부를 수 있을까. 내가 어제부터 진정이 잘 안 되는 거 같은데. 일단 턱근육 긴장이 제일 심한 거 같고 뭔가에 집중도 잘 안 되는 거 같은 그런? 정신이 산만하다 해야하나.](https://gemini.google.com/share/e3f170a452a2)
+
+20일
+
+[-게임 번역 행동 5](https://gemini.google.com/share/beb0002b2134)
+
+21일
+
+[-26년 1월의 정신과](https://gemini.google.com/share/46259b21c025)
+
+22일
+
+[-대화를 시작하기 전에 이 얘기부터 하려고 한다. 나는 내가 대부분을 모를 수밖에 없는 거 같다고 생각한다. 얼마나 모르는지도, 아는지도 모르는 거 같다고 생각한다. 따라서 그냥 모른다고 표현하는 것조차도 조심스러워지는 상황이지.](https://gemini.google.com/share/34c05e57e1ed)
+
+25일
+
+[-(앞)피부 관련 이야기였던 것](https://gemini.google.com/share/9c45927713d7)
+
+[-게임 번역 행동 6](https://gemini.google.com/share/eefb6b03c747)
+
+26일
+
+[-(짧)SDD->HDD HDD->SDD HDD->HDD 이렇게 파일을 복사 붙여넣기 해도 큰 문제 없는 거 맞나?](https://gemini.google.com/share/201210c0a4f5)
+29일
+
+[-네가 게임 번역이 흥미롭다 여기는 이유가 궁금해졌다.](https://gemini.google.com/share/74fc0958dea7)
+
+30일
+
+[-막 유튜브에 이런 말이 있었던 걸로 기억하는데. 업로드 간격을 일정하게 하고 업로드 시간을 일정하게 해야 좋다?](https://gemini.google.com/share/4b6e538772b5)
+
+31일
+
+[-너를 개발하는 사람은 네가 대부분을 모를 수밖에 없다는 걸 인정하고 싶지 않아하는 거 같이 느껴지기도 하는데. 너는 어떤가.](https://gemini.google.com/share/9ff0bc9bb1de)
