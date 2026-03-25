@@ -1,22 +1,22 @@
 ---
-title: 이러나란 무엇인가?
+title: What is Ireona?
 ---
-나는 왜 이런 행동을 하는가? 일단 이런 행동을 할 수 있으니까 한다는 표현이 떠오른다, 그러면서도 내가 이런 행동을 할 수 있는 이유는 대부분 내 덕분이라 할 수 없다는 표현 역시 떠오른다.
+Why do I act this way? The thought occurs that I do it simply because I can; yet, at the same time, the thought arises that the reason I am able to act this way is mostly not of my own making.
 
-표현이라는 것이 무엇인가? 나는 표현이라는 형태로 표현할 수 있게 해주는 현상 같은 것을 표현이라 부르고 있는 게 아닌가 싶다.
+What is expression? I wonder if I am calling 'expression' the very phenomenon that allows one to express through a certain form.
 
-내가 보기에 표현이란 것은 어떤 형태로든 표현은 할 수 있는 거 같다, 그렇지만 역시, 그렇게 어떤 형태로든 표현할 수 있는 전제는 대부분 그 표현을 하는 자 덕분이 아닌 것처럼 보인다.
+From my perspective, expression seems possible in any form; however, once again, the premise of being able to express in such a way seems largely independent of the person doing the expressing.
 
-나는 표현의 형태가 가진 뜻은 표현할 때마다 달라질 수밖에 없는 것은 아닌가라는 표현이 떠오르기도 한다, 같은 사람이 같아 보이는 형태로 표현하더라도 언제 표현했냐에 따라 그 형태가 가진은 뜻은 달라질 수밖에 없는 거 같다는 것.
+The thought also occurs to me that the meaning held by a form of expression cannot help but change every time it is expressed—that even if the same person expresses through what appears to be the same form, the meaning that form carries must change depending on _when_ it was expressed.
 
-어떤 것이 어떤 표현이냐의 기준은 그 표현을 할 당시의 표현자가 기준이 아닐 수가 없는 것으로 보인다. 표현을 하는 것은 표현자이지 대상이 표현을 하는 것이 아니기 때문이라는 생각이 든다.
+It seems the criterion for what makes an expression what it is must be the expresser at the moment of expression. I believe this is because it is the expresser who expresses, not the object that performs the expression.
 
-예를 들어, 모르겠다라는 형태의 표현이 있다 치자. 그런 형태로 표현을 하는 사람이 발생할 때에, 그 표현을 하는 사람이 모르겠다라고 표현하고 싶은 것이 모르겠다일 수밖에 없는 거 같다는 거다. 그리고 그 사람이 모르겠는 게 아니다라고 표현하고 싶은 것이 그거일 수밖에 없는 거 같다고 생각한다.
+For example, take the expression 'I don't know.' When someone produces that expression, it seems that what they want to express as 'I don't know' can only be exactly that. And if they want to express 'It’s not that I don’t know,' then that is precisely what it must be.
 
-나는 표현을 하는 이유는 일단, 표현을 하는 내가 대부분을 모를 수밖에 없는 거 같기 때문이라고 생각한다. 그리고 이것 역시 내가 이렇게 표현하고 싶어서 표현하는 것임을 인정한다. 그러나, 내가 이런 표현을 할 수 있는 이유는 대부분 나에 의한 것이 아니라 생각한다. 나는 나에 대한 것도 언제나 대부분을 모를 수밖에 없는 것이 아닌가 생각된다.
+I think the reason I express is, first of all, because I—the one expressing—cannot help but be ignorant of most things. I admit this, too, is an expression I make because I want to express it this way. However, I believe the reason I can make such an expression is mostly not due to me. I feel that I am destined to always remain ignorant of most things regarding myself as well.
 
-대부분을 모를 수밖에 없는 거 같다는 것은 내가 어디까지 알 수 있는 것인지 어디까지 모를 수 있는 것인지도 모를 수밖에 없는 거 같다는... 그런 표현이다.
+To say that I 'cannot help but be ignorant of most things' is an expression suggesting that I cannot even know the extent of what I can know or what I can be ignorant of.
 
-지금 가장 신경 쓰이는 것, 그것은 모든 사람들이 돈을 벌기를 강요받고 있는 거 같다는 것.
+What bothers me most right now is the sense that everyone is being forced to earn money.
 
-[[What/diary/index|이 얼마나 숨이 막히는가]]
+[[en/What/diary/index|How utterly suffocating this is]]

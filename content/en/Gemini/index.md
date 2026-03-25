@@ -1,5 +1,5 @@
 ---
-title: 이러나와 제미나이
+title: Ireona and Gemini
 ---
 [[Gemini/Gemini_2025/index|2025년]]
 

@@ -1,5 +1,5 @@
 ---
-title: 이러나 유튜브
+title: Ireona YouTube
 ---
 https://www.youtube.com/@%EC%9D%B4%EB%9F%AC%EB%82%98
 
