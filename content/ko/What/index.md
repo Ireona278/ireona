@@ -19,4 +19,8 @@ title: 이러나란 무엇인가?
 
 지금 가장 신경 쓰이는 것, 그것은 모든 사람들이 돈을 벌기를 강요받고 있는 거 같다는 것.
 
-[[What/diary/index|이 얼마나 숨이 막히는가]]
+[[ko/What/diary/index|이 얼마나 숨이 막히는가]]
+
+
+
+[[en/What/index|English]]

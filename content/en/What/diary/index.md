@@ -30,3 +30,7 @@ How utterly suffocating this is.
 Then there’s the matter of 'fine dust.' According to the Korea Meteorological Administration and weather channels, the PM10 concentration is around **$89\mu g/m^3$** and PM2.5 is around **$70\mu g/m^3$**. I wonder if this is also one of the reasons why it’s hard for me to calm down and why my nerves are so on edge. It seems the fine dust levels were like this all day yesterday, too. Reaching these levels has become such a daily occurrence. Isn't this something that even moving can't solve?
 
 Talking to the management office is simply a way of doing _something_ because staying idle is too frustrating. I don't expect them to solve anything. My mindset is just: 'Let’s at least hear what they have to say.' Even if the reaction is predictable... well, you never know.
+
+
+
+[[ko/What/diary/index|한글]]

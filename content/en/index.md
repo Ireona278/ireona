@@ -15,4 +15,6 @@ As I wish for my expressions to reach as many people as possible, I provide part
 
 The original expressions are strictly in Korean; these English versions are translations based on them. I am aware they may inevitably fall short.
 
-[[index|한글]]
+
+
+[[ko/index|한글]]

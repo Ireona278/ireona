@@ -20,3 +20,7 @@ To say that I 'cannot help but be ignorant of most things' is an expression sugg
 What bothers me most right now is the sense that everyone is being forced to earn money.
 
 [[en/What/diary/index|How utterly suffocating this is]]
+
+
+
+[[ko/What/index|한글]]
