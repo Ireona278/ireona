@@ -6,3 +6,7 @@ title: 생이러나
 [생이러나 채널의 링크는 이것이다.](https://www.youtube.com/@%EC%83%9D%EC%9D%B4%EB%9F%AC%EB%82%98)
 
 이곳은 생이러나 채널에 대해 나의 이런저런 표현을 적어둘 곳이다. 아직은 별 내용 없다.
+
+
+
+[[en/youtube/raw/index|English]]
