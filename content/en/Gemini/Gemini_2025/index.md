@@ -1,6 +1,18 @@
 ---
-title: 2025년
+title: "2025"
 ---
-[[ko/Gemini/Gemini_2025/11/index|11월]]
+[[en/Gemini/Gemini_2025/07_Before|Before August]]
 
-[[ko/Gemini/Gemini_2025/12/index|12월]]
+[[en/Gemini/Gemini_2025/10|October]]
+
+[[en/Gemini/Gemini_2025/11|November]]
+
+[[en/Gemini/Gemini_2025/12|December]]
+
+(Short) = Relatively short conversation
+
+(Glitch) = Conversation with the beginning lost due to a system glitch
+
+
+
+[[ko/Gemini/Gemini_2025/index|한글]]

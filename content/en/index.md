@@ -1,19 +1,23 @@
 ---
-title: One Who Calls Themselves Ireona
+title: Ireona Blog (Provisional)
 ---
-I am one who calls myself 이러나(Ireona); I also call myself 'I'.
+This place is called 'Ireona Blog'. And the entity that used this expression to post here is something that calls itself 'I', describes itself as a 'person', and refers to itself as 'Ireona'.
 
-Can this space demonstrate the vast and diverse expressions a single person can manifest?
-
-[[en/What/index|What is Ireona?]]
+Can I show here how many and how diverse the expressions of a single person can be?
 
 [[en/Gemini/index|Ireona and Gemini]]
 
 [[en/Youtube/index|Ireona YouTube]]
 
-As I wish for my expressions to reach as many people as possible, I provide partial English support. However, as my English is limited, please note that most translations are provided by Gemini.
+[[en/Where/index|What is this place?]]
 
-The original expressions are strictly in Korean; these English versions are translations based on them. I am aware they may inevitably fall short.
+[[en/Ireona/index|What is Ireona?]]
+
+[[en/Molu/index|A place where I just shove everything for now because I don't know where to put it yet.]]
+
+I want as many people as possible to see my expressions, so I will provide English support, albeit partially. However, since I am not fluent in English, I state that most of it is translated by Gemini. In fact, even if I knew English well, I don't think I could write such vast content twice.
+
+The original text is always the Korean expression; the English version is a translation based on that. I am aware it will inevitably be quite lacking.
 
 
 

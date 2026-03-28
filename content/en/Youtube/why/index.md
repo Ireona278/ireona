@@ -1,3 +1,8 @@
 ---
-title: 나는 왜 이런 행동을 하고 있는가
+title: Why Am I Doing This?
 ---
+[[en/Youtube/why/2|Why would I be doing this?]]: Transcribing the audible text used in my videos into visible text.
+
+
+
+[[ko/Youtube/why/index|한글]]

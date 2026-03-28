@@ -1,9 +1,12 @@
 ---
 title: Ireona YouTube
 ---
-https://www.youtube.com/@%EC%9D%B4%EB%9F%AC%EB%82%98
+I am also an individual who runs a personal YouTube channel.
 
-[[ko/Youtube/why/index|나는 왜 이런 행동을 하고 있는가]]
+[Click here if you wish to visit my YouTube channel.](https://www.youtube.com/@%EC%9D%B4%EB%9F%AC%EB%82%98)
 
-[[ko/Youtube/raw/index|생이러나]]
+[[en/Youtube/why/index|Why Am I Doing This?]]
 
+
+
+[[ko/Youtube/index|한글]]
