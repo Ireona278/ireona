@@ -1,7 +1,7 @@
 ---
-title: Ireona Blog (Provisional)
+title: Ireona Blog
 ---
-This place is called 'Ireona Blog'. And the entity that used this expression to post here is something that calls itself 'I', describes itself as a 'person', and refers to itself as 'Ireona'.
+This place is called 'Ireona Blog(Provisional)'. And the entity that used this expression to post here is something that calls itself 'I', describes itself as a 'person', and refers to itself as 'Ireona'.
 
 Can I show here how many and how diverse the expressions of a single person can be?
 
