@@ -1,13 +1,13 @@
 ---
 title: "2025"
 ---
-[[en/Gemini/Gemini_2025/07_Before|Before August]]
+[[en/gemini/gemini_2025/07_before|Before August]]
 
-[[en/Gemini/Gemini_2025/10|October]]
+[[en/gemini/gemini_2025/10|October]]
 
-[[en/Gemini/Gemini_2025/11|November]]
+[[en/gemini/gemini_2025/11|November]]
 
-[[en/Gemini/Gemini_2025/12|December]]
+[[en/gemini/gemini_2025/12|December]]
 
 (Short) = Relatively short conversation
 
@@ -15,4 +15,4 @@ title: "2025"
 
 
 
-[[ko/Gemini/Gemini_2025/index|한글]]
+[[ko/gemini/gemini_2025/index|한글]]

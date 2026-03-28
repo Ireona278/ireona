@@ -31,4 +31,4 @@ July
 
 
 
-[[ko/Gemini/Gemini_2025/07_Before|한글]]
+[[ko/gemini/gemini_2025/07_before|한글]]

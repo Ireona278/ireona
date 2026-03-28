@@ -31,4 +31,4 @@ title: 07 이전
 
 
 
-[[en/Gemini/Gemini_2025/07_Before|English]]
+[[en/gemini/gemini_2025/07_before|English]]

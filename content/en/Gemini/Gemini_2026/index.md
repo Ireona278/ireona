@@ -1,11 +1,11 @@
 ---
 title: "2026"
 ---
-[[en/Gemini/Gemini_2026/01|January]]
+[[en/gemini/gemini_2026/01|January]]
 
-[[en/Gemini/Gemini_2026/02|February]]
+[[en/gemini/gemini_2026/02|February]]
 
-[[en/Gemini/Gemini_2026/03|March]]
+[[en/gemini/gemini_2026/03|March]]
 
 (Short) = Relatively short conversation
 
@@ -13,4 +13,4 @@ title: "2026"
 
 
 
-[[ko/Gemini/Gemini_2026/index|한글]]
+[[ko/gemini/gemini_2026/index|한글]]

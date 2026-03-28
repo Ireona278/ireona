@@ -5,4 +5,4 @@ What should I do with this place? Should I make it a place to express various th
 
 
 
-[[ko/Ireona/index|한글]]
+[[ko/ireona/index|한글]]

@@ -1,11 +1,11 @@
 ---
 title: "2026"
 ---
-[[ko/Gemini/Gemini_2026/01|1월]]
+[[ko/gemini/gemini_2026/01|1월]]
 
-[[ko/Gemini/Gemini_2026/02|2월]]
+[[ko/gemini/gemini_2026/02|2월]]
 
-[[ko/Gemini/Gemini_2026/03|3월]]
+[[ko/gemini/gemini_2026/03|3월]]
 
 (짧) = 내용이 짧은 편임
 
@@ -13,4 +13,4 @@ title: "2026"
 
 
 
-[[en/Gemini/Gemini_2026/index|English]]
+[[en/gemini/gemini_2026/index|English]]
