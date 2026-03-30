@@ -1,13 +1,16 @@
 ---
-title: A place where I just shove everything for now because I don't know where to put it yet.
+title: A catch-all spot
 ---
-The title is the content.
+I'm not sure where these belong yet, so this is just my catch-all spot for now.
 
 What should I call things like the following? A diary?
 
 [[en/molu/1|What is expression?]]
 
 [[en/molu/2|How utterly suffocating this is]]
+
+[[en/molu/3|Fine dust]]
+
 
 
 
