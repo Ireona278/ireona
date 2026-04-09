@@ -7,6 +7,8 @@ title: "2026"
 
 [[en/gemini/gemini_2026/03|March]]
 
+[[en/gemini/gemini_2026/04|April]]
+
 (Short) = Relatively short conversation
 
 (Glitch) = Conversation with the beginning lost due to a system glitch
