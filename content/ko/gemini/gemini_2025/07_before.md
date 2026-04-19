@@ -19,6 +19,14 @@ title: 7월 이전
 
 [재산 축적과 권력 유지는 반사회적 행동이다](https://gemini.google.com/share/079d70af575c) [(ㅇ)](https://blog.naver.com/ireonablog/224019571395)
 
+23
+
+[컨텐츠가 방대한 게임만 하다보니 플레이 시간이 짧은 게임이 그리워지는군. 플래시 게임 감성 같은 거](https://gemini.google.com/share/7bcec0187221)
+
+25
+
+[이런 그래픽의 종류를 칭하는 명칭이 있나?](https://gemini.google.com/share/006466061202)
+
 칠월
 
 04

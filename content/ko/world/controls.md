@@ -86,6 +86,3 @@ title: 조작
 웅크려 점프
 
 웅크려 이동
-
-
-[[en/youtube/index|English]]

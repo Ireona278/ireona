@@ -36,6 +36,3 @@ POW블록:
 P스위치:
 
 나무상자:
-
-
-[[en/youtube/index|English]]

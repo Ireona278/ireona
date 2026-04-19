@@ -10,7 +10,3 @@ title: 게임 배경
 슈퍼 마리오 월드
 뉴 슈퍼 마리오브라더스 U
 슈퍼 마리오 3D 월드
-
-
-
-[[en/youtube/index|English]]

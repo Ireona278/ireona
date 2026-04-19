@@ -3,6 +3,8 @@ title: "2025"
 ---
 [[en/gemini/gemini_2025/07_before|Before August]]
 
+[[en/gemini/gemini_2025/09|September]]
+
 [[en/gemini/gemini_2025/10|October]]
 
 [[en/gemini/gemini_2025/11|November]]

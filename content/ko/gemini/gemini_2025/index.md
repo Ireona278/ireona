@@ -3,6 +3,8 @@ title: "2025"
 ---
 [[ko/gemini/gemini_2025/07_before|7월 이전]]
 
+[[ko/gemini/gemini_2025/09|9월]]
+
 [[ko/gemini/gemini_2025/10|10월]]
 
 [[ko/gemini/gemini_2025/11|11월]]

@@ -19,6 +19,14 @@ June
 
 [Accumulating wealth and maintaining power is anti-social behavior](https://gemini.google.com/share/079d70af575c) [(ㅇ)](https://blog.naver.com/ireonablog/224019571395)
 
+23
+
+[Having played only games with vast content, I find myself missing games with short playtimes. Something like that Flash game vibe.](https://gemini.google.com/share/7bcec0187221)
+
+25
+
+[Is there a specific name for this type of graphics?](https://gemini.google.com/share/006466061202)
+
 July
 
 04
