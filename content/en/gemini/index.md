@@ -1,9 +1,9 @@
 ---
 title: Ireona and Gemini
 ---
-[[en/gemini/gemini_2025/index|2025]]
+[[en/gemini/gemini-2025/index|2025]]
 
-[[en/gemini/gemini_2026/index|2026]]
+[[en/gemini/gemini-2026/index|2026]]
 
 A collection of content generated from the meeting of what is called Ireona and what is called Gemini. Because the word count is so vast, I think translating the usage history would be too difficult, even with something like AI. I don't think I can go that far.
 

@@ -1,9 +1,9 @@
 ---
 title: 이러나와 제미나이
 ---
-[[ko/gemini/gemini_2025/index|2025년]]
+[[ko/gemini/gemini-2025/index|2025년]]
 
-[[ko/gemini/gemini_2026/index|2026년]]
+[[ko/gemini/gemini-2026/index|2026년]]
 
 이러나라 불리는 것과 제미나이라 불리는 것이 만나서 발생한 내용을 모아둔 것. 글자 수가 매우 많기에 사용 내역을 번역하는 것은 AI 같은 걸 사용한다 해도 너무 힘들지 않을까 생각된다. 나는 그것까진 못할 거 같다.
 

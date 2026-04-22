@@ -9,67 +9,67 @@ title: 프로젝트 이러나 월드
 
 대략적인 설계도
 
-월드 1: 1-1 제도
+World 1: 1-1 Archipelago
 
-[[ko/world/1-1|1-1 Hello, 이러나 World!]]
+[[en/world/1-1|1-1 Hello, 이러나 World!]]
 
-[[ko/world/1-2|1-2 날든가 말든가, 뭉게 나뭇잎 초원]]
+[[en/world/1-2|1-2 Fluffy Leafy Grass Land]]
 
-[[ko/world/1-3|1-3 요시 아일랜드: 끊어진 다리 아래로]]
+[[en/world/1-3|1-3 Yoshi Island: Bridge Below]]
 
-[[ko/world/1-4|1-4 도토리 고원의 깊고 깊은 갱도]]
+[[en/world/1-4|1-4 Deep Deep Acorn Plateau]]
 
-[[ko/world/1-F|1-F 슈퍼벨 언덕의 온오프 타워]]
+[[en/world/1-F|1-F ON/OFF Tower Hill]]
 
-월드 2: 미지의 데저트
+World 2: Deceptive Desert
 
-2-1 피라미드 안의 슈퍼볼플라워
+2-1 Pyramid's Superball Flower
 
-2-2 두리둥실 선인 산맥
+2-2 Floaty Pokey Mountains
 
-2-3 길막하는 해머브러스
+2-3 Hammer Bro Blockade
 
-2-4 아까까지는 이렇게 춥지 않았는데
+2-4 Not Cold Until Just Now
 
-2-F 래리의 신발 비행선
+2-F Larry's Shoe Airship
 
-월드 3: 미심쩍은 늪지대
+World 3: Dubious Swamp
 
-3-1 장치 가득 점보 꼬마 포레스트
+3-1 Small-Big Gizmo Forest
 
-3-2 잠겼다 나왔다 퐁당의 소
+3-2 Splashy In-and-Out Pond
 
-3-3 마스터 소드와 세 가지 시련
+3-3 Master Sword and 3 Trials
 
-3-4 독늪을 횡단하는 와르르 뗏목
+3-4 Dry Bones' Poison Raft
 
-3-F 가라앉은 쿠파 성
+3-F Sunken Bowser's Castle
 
-월드 4: 하늘드림랜드
+World 4: Shangri-Dreamland
 
-4-1 하늘 호수의 쌓기나무 성
+4-1 Sky Lake Colorful Blocks
 
-4-2 빨강요시가 이곳에 있다지?
+4-2 They Say Red Yoshi Is Here
 
-4-3 메이드 인 코인 헤븐
+4-3 Made in Coin Heaven
 
-4-4 밤낮 공존 양면 사막
+4-4 Flip-Side Day-Night Desert
 
-4-F 슈퍼 마리오 USA? 브라더스 2?
+4-F Super Mario USA? Bros. 2?
 
-월드 5: 마왕 쿠파의 골짜기
+World 5: Valley of Bowser
 
-5-1 비행을 위한 공간은 없다
+5-1 There Is No Room to Fly
 
-5-2 어질어질하다 마귀부대
+5-2 Dizzying Magikoopa Mob
 
-5-3 착지 금지! 부메랑 협곡
+5-3 No Landing! BoomeranGorge
 
-5-4 잡탕: 쿠파군단의 근거지
+5-4 Japtang: Koopa Troop Base
 
-5-F 대마왕 국밥
+5-F The Evil King Gukbap
 
-월드 6-1: 불바다 제도
+World 6-1: 불바다 제도
 
 6-1 슈퍼 마리오브라더스 35 더 로스트 레벨
 
@@ -81,7 +81,7 @@ title: 프로젝트 이러나 월드
 
 6-M 쿠파주니어의 비행선 함대
 
-월드 6-2: 쿠파의 불바다 제국
+World 6-2: 쿠파의 불바다 제국
 
 6-4 튕, 튕, 튕구르르 가시공 요새
 
@@ -93,16 +93,16 @@ title: 프로젝트 이러나 월드
 
 6-F 완벽한 쿠파 성의 어전
 
-월드 7: 밤하늘의 쿠파 랜드
+World 7: 밤하늘의 쿠파 랜드
 
 7-1 돌진! 쿠파 7인조 익스프레스
 
 7-2 미안해 요!쒸!!
 
-7-3 쿠파 랜드로 갈까요~
+7-3 엉금카 폐차 공장
 
 7-4 빠져나갈 수가 없다! 쿠파 랜드의 대미궁
 
-7-F 결전! 쿠파 랜드의 초거대 캣타워
+7-F Great Cat Tower Showdown
 
-[[en/world/index|English]]
+[[ko/world/index|한글]]
