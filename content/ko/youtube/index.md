@@ -7,6 +7,6 @@ title: 이러나 유튜브
 
 [[ko/youtube/why/index|나는 왜 이런 행동을 하고 있는가]]
 
-
+[[ko/youtube/script/index|대본]]
 
 [[en/youtube/index|English]]

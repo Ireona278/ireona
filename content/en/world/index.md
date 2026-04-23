@@ -9,7 +9,7 @@ title: 프로젝트 이러나 월드
 
 대략적인 설계도
 
-World 1: 1-1 Archipelago
+World 1: 1-1 Isles
 
 [[en/world/1-1|1-1 Hello, 이러나 World!]]
 
@@ -19,7 +19,7 @@ World 1: 1-1 Archipelago
 
 [[en/world/1-4|1-4 Deep Deep Acorn Plateau]]
 
-[[en/world/1-F|1-F ON/OFF Tower Hill]]
+[[en/world/1-F|1-F ON]]/[[en/world/1-F|OFF Tower Hill]]
 
 World 2: Deceptive Desert
 
@@ -45,7 +45,7 @@ World 3: Dubious Swamp
 
 3-F Sunken Bowser's Castle
 
-World 4: Shangri-Dreamland
+World 4: Shangri-Land
 
 4-1 Sky Lake Colorful Blocks
 
@@ -69,39 +69,39 @@ World 5: Valley of Bowser
 
 5-F The Evil King Gukbap
 
-World 6-1: 불바다 제도
+World 6A: Fire Sea Isles
 
-6-1 슈퍼 마리오브라더스 35 더 로스트 레벨
+6-1 SMB 35 The Lost Level
 
-6-2 짜자어 서식 구역의 핑크코인
+6-2 Charvaargh Zone Pink Coins
 
-6-3 와르르등껍질을 구하라
+6-3 Get the Dry Bones Shell
 
-6-★ 옥상정복! 기괴한 레미의 사탑
+6-★ Lemmy's Leaning Tower
 
-6-M 쿠파주니어의 비행선 함대
+6-M Bowser Jr's Airship Armada
 
-World 6-2: 쿠파의 불바다 제국
+World 6B: Fire Sea Empire of Bowser
 
-6-4 튕, 튕, 튕구르르 가시공 요새
+6-4 Boing! Spike Ball Fortress
 
-6-5 쿠파군단의 전차 중대
+6-5 Koopa Troop Tank Company
 
-6-6 위험천만한 쿠파 성 앞마당의 용암 호수
+6-6 Surging Lava Lake
 
-6-7 철벽! 완벽한 쿠파 성
+6-7 Bowser's Perfect Castle
 
-6-F 완벽한 쿠파 성의 어전
+6-F Presence of the King
 
-World 7: 밤하늘의 쿠파 랜드
+World 7: Shangri-Bowser Land
 
-7-1 돌진! 쿠파 7인조 익스프레스
+7-1 The Koopalings Express
 
-7-2 미안해 요!쒸!!
+7-2 SorrYOSHHHHI!!
 
-7-3 엉금카 폐차 공장
+7-3 Paradise Found
 
-7-4 빠져나갈 수가 없다! 쿠파 랜드의 대미궁
+7-4 Trapped! Bowser Labyrinth
 
 7-F Great Cat Tower Showdown
 
