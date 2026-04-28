@@ -95,7 +95,7 @@ World 6B: Fire Sea Empire of Bowser
 
 World 7: Shangri-Bowser Land
 
-7-1 The Koopalings Express
+7-1 The Koopaling Express
 
 7-2 SorrYOSHHHHI!!
 
