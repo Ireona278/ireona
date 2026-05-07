@@ -1,22 +1,28 @@
 ---
 title: Ireona Obsidian
 ---
-This place is called 'Ireona Obsidian'. And the entity that used this expression to post here is something that calls itself 'I', describes itself as a 'person', and refers to itself as 'Ireona'.
+This place is a place called 'Ireona Obsidian.' Most of the words seen here are likely things said by something that calls itself "I," says it's a human, and also calls itself Ireona. It's to say it seems like words being said by one human person.
 
-Can I show here how many and how diverse the expressions of a single person can be?
+Can I show in this spot just how many and how diverse expressions one person can make?
 
-[[en/gemini/index|Ireona and Gemini]]
+[[en/sseun/index|Things I wrote down from what came to mind at that time, when I was in a state of wanting to write something without using Gemini]]
 
 [[en/youtube/index|Ireona YouTube]]
 
-[[en/where/index|What is this place?]]
+[[en/gemini/index|Ireona and Gemini]]
+
+I think the above three are the main of this place, or maybe not. The links below are other things.
+
+[[en/world/index|Project Ireona World]]
+
+[[en/where/index|What is this place doing here?]]
 
 [[en/ireona/index|What is Ireona?]]
 
-[[en/sseun/index|A place where I just shove everything for now because I don't know where to put it yet.]]
+Because I want as many people as possible to see my expressions, I will support English at least partially, but since I don't know English well, I reveal that most of it is a translation done by Gemini. Actually, even if I knew English well, I don't think I could do writing this vast amount of content twice. Writing the same content twice is boring.
 
-I want as many people as possible to see my expressions, so I will provide English support, albeit partially. However, since I am not fluent in English, I state that most of it is translated by Gemini. In fact, even if I knew English well, I don't think I could write such vast content twice.
+The original text is strictly Korean expressions, it is English expressions translated based on the Korean expressions. I know it cannot help but be lacking a lot.
 
-The original text is always the Korean expression; the English version is a translation based on that. I am aware it will inevitably be quite lacking.
+Even if Gemini translates most of it for me, I don't know well how far I will be able to do. I have a thought that immediately adding the translation together every time I add a new original text does not seem like a doable action. Doing so also seems to put too much burden on the work of adding the original text, so I decided to do the translating separately from adding the original text, whenever it comes to my mind. Maybe I might not want to translate certain parts forever.
 
 [[ko/index|한글]]

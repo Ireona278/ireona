@@ -1,5 +1,5 @@
 ---
-title: A catch-all spot
+title: What Arose
 ---
 [[en/sseun/2026/index|2026]]
 

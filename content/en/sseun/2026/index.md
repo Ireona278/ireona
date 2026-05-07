@@ -1,5 +1,5 @@
 ---
-title: 떠오르는 것을 쓴 것
+title: "2026"
 ---
 [[en/sseun/2026/02|February]]
 
