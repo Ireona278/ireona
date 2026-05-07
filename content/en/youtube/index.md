@@ -7,6 +7,8 @@ I am also an individual who runs a personal YouTube channel.
 
 [[en/youtube/why/index|Why Am I Doing This?]]
 
+[[en/youtube/script/index|대본]]
 
+[[en/youtube/log/index|업로드 기록]]
 
 [[ko/youtube/index|한글]]

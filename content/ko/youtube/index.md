@@ -9,4 +9,6 @@ title: 이러나 유튜브
 
 [[ko/youtube/script/index|대본]]
 
+[[ko/youtube/log/index|업로드 기록]]
+
 [[en/youtube/index|English]]
