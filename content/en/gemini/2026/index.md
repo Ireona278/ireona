@@ -15,4 +15,6 @@ title: "2026"
 
 (Glitch) = Conversation with the beginning lost due to a system glitch
 
+(공) = 대화 공유가 안 되는 에러가 발생함
+
 [[ko/gemini/2026/index|한글]]
