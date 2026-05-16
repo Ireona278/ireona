@@ -9,7 +9,7 @@ title: "2026"
 
 [[en/gemini/2026/04|April]]
 
-[[en/gemini/2026/05|May]]
+[[en/gemini/2026/05/index|May]]
 
 (Short) = Relatively short conversation
 

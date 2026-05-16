@@ -9,7 +9,7 @@ title: "2026"
 
 [[ko/gemini/2026/04/index|4월]]
 
-[[ko/gemini/2026/05|5월]]
+[[ko/gemini/2026/05/index|5월]]
 
 (짧) = 내용이 짧은 편임
 

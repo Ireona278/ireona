@@ -1,5 +1,5 @@
 ---
-title: "05"
+title: 5월
 ---
 1일
 
@@ -71,4 +71,4 @@ title: "05"
 
 [너은 왼쪽으로 네 번 죽어본 적 있나](https://gemini.google.com/share/0028683959fd)
 
-[[en/gemini/2026/05|English]]
+[[ko/gemini/2026/05/index|한글]]
