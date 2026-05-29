@@ -199,7 +199,7 @@ title: "04"
 
 30
 
-[당신은 당신이 원피스에 대해 잘 안다 생각하시오? ](https://gemini.google.com/share/74c93f69f234)
+[당신은 당신이 원피스에 대해 잘 안다 생각하시오?](https://gemini.google.com/share/74c93f69f234)
 
 [원피스가 소년 점프라면 나루토 블리치란 것도 소년 점프란 말인가](https://gemini.google.com/share/8af910fd9361)
 

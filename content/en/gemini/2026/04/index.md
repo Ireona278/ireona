@@ -136,76 +136,76 @@ title: "04"
 
 19
 
-[제미나이! 번역해라!](https://gemini.google.com/share/c3633c6b616a)
+[Gemini! Translate!](https://gemini.google.com/share/c3633c6b616a)
 
-[나는 무리를 한 걸까요 딱 적절하게 행동하는 걸까요.](https://gemini.google.com/share/66869910061b)
+[Did I overdo it, or did I act just right.](https://gemini.google.com/share/66869910061b)
 
-[나는 심심해서 죽겠다. 넌 이것이 가벼워 보이나.](https://gemini.google.com/share/d5573b7234fb)
+[I'm bored to death. Does this look light to you.](https://gemini.google.com/share/d5573b7234fb)
 
 20
 
-[대본은 왜 대본이지](https://gemini.google.com/share/3b8373158fe7)
+[Why is a script a script](https://gemini.google.com/share/3b8373158fe7)
 
-[프로젝트 이러나 월드: 코스 이름 다듬기](https://gemini.google.com/share/8370419d44e2)
+[Project Ireona World: Polishing Course Names](https://gemini.google.com/share/8370419d44e2)
 
 21
 
-[프로젝트 이러나 월드: 코스 이름 번역 1](https://gemini.google.com/share/ace8aa269574)
+[Project Ireona World: Translating Course Names 1](https://gemini.google.com/share/ace8aa269574)
 
-[프로젝트 이러나 월드: 코스 이름 번역 2](https://gemini.google.com/share/9e1176d0c828)
+[Project Ireona World: Translating Course Names 2](https://gemini.google.com/share/9e1176d0c828)
 
-[돈은 겁나 처맞아야 한다](https://gemini.google.com/share/127acdfd106d)
+[Money needs to get beaten the hell up](https://gemini.google.com/share/127acdfd106d)
 
 22
 
-(짧)[내가 옵시디언으로 en/world/1-F|1-F ON/OFF Tower Hill 이렇게 썼는데 옵시디언 상에선 '1-F ON/OFF Tower Hill' 이렇게 잘 뜨는데 그걸 쿼츠 4로 사이트로 보이게 하면 'OFF Tower Hill' 이렇게 뜨던데 슬래시가 이유인가.](https://gemini.google.com/share/98a6a1be48f2)
+(Short)[I wrote en/world/1-F|1-F ON/OFF Tower Hill in Obsidian, and it shows up fine as '1-F ON/OFF Tower Hill' in Obsidian, but when I view it as a site with Quartz 4, it shows up as 'OFF Tower Hill'. Is the slash the reason?](https://gemini.google.com/share/98a6a1be48f2)
 
-[프로젝트 이러나 월드: 코스 이름 번역 3](https://gemini.google.com/share/d1318e91bbb9)
+[Project Ireona World: Translating Course Names 3](https://gemini.google.com/share/d1318e91bbb9)
 
 24
 
-[갑자기 몸싸움 관련해서 흥미가 돋는 거 같다. 이런 쪽으로 궁금하다 해야할까. 나 대인전을 잘 할 수 있는 편일까. 몸싸움 쪽으로](https://gemini.google.com/share/385c7a6dc5f0)
+[Suddenly I seem to be getting interested in physical fights. Should I say I'm curious about this sort of thing. Would I be good at interpersonal combat. In terms of physical fighting.](https://gemini.google.com/share/385c7a6dc5f0)
 
-[젠장 할 게 없군 젠장 할게 없군 젠장 할 게 없군 젠장 할게 없군 젠장 할 게 없군, 뭔가 그림 생각이 나긴 하는데. 그림에 대해 좀 이야기를 해보면 어떻겠는가](https://gemini.google.com/share/aebf7c614db5)
+[Damn there's nothing to do damn there's nothing to do damn there's nothing to do damn there's nothing to do damn there's nothing to do, I am thinking a bit about drawing though. How about we talk a bit about drawing.](https://gemini.google.com/share/aebf7c614db5)
 
-[벡터 디지털 드로잉 툴 찾습니다](https://gemini.google.com/share/6d6e5247cefd)
+[Looking for a vector digital drawing tool](https://gemini.google.com/share/6d6e5247cefd)
 
 25
 
-[에이스프라이트에 대해, 픽셀 아트 툴이라 불리는 것. 그거 오픈 소스라던데 오픈 소스로 쓰면 돈을 안 내도 된다? 그거 많이 어려운 길인가?](https://gemini.google.com/share/21542e626087)
+[About Aseprite, the thing called a pixel art tool. I heard it's open source, does using it as open source mean I don't have to pay? Is that a very difficult path?](https://gemini.google.com/share/21542e626087)
 
-[벡터와 비트맵은 대비되는 것이 아니라 비트맵 하위 분류에 벡터가 있는 거 아니었나?](https://gemini.google.com/share/ecfc5c925b01)
+[Aren't vector and bitmap not contrasting things, but rather vector is a subcategory of bitmap?](https://gemini.google.com/share/ecfc5c925b01)
 
-[러스트 전에 잠깐 배우다가 말았는데 다시 좀 볼까말까 하는데 이거 어떻게 하는 거였더라](https://gemini.google.com/share/3bfcd1125682)
+[I learned Rust for a bit before and stopped, I'm hesitating whether to look at it again or not, how was I supposed to do this again](https://gemini.google.com/share/3bfcd1125682)
 
-[프로젝트 이러나 월드 관련 잡담](https://gemini.google.com/share/76f6de43a99c)
+[Chit-chat regarding Project Ireona World](https://gemini.google.com/share/76f6de43a99c)
 
 26
 
-(짧)[산세베리아 분갈이 후에 10일 정도 지났으면 물 쫙 주면 되는 걸까요나](https://gemini.google.com/share/1dad933282a2)
+(Short)[If it's been about 10 days since repotting the Sansevieria, can I just give it a good soak](https://gemini.google.com/share/1dad933282a2)
 
-[어제 문득 나는 이런 생각이 들었다. 마리오는 뭔가 한글 사용자에 한정해서 보자면 뭔가... 인터넷 커뮤니티 같은 것이 굉장히 발달되지 못한 편 같다?](https://gemini.google.com/share/9403d9ca5e9b)
+[Yesterday, this thought suddenly occurred to me. If we look strictly at Korean users, it seems like Mario... doesn't have a very well-developed internet community or something?](https://gemini.google.com/share/9403d9ca5e9b)
 
-[이런 걸 오디오 믹싱이라 하던가 소리 여러 개 겹치는 거 비율 잡는 거. 빨간색은 내 목소리 주파수고 파란색은 게임 소리인데 어떤 거 같니, 지금 게임 소리에 이런 이퀄라이저를 적용 중인데 좀 조절할 필요가 있을까 싶어서. 네가 주파수 그래프만 봐서 알 수 있을지 모르겠지만 내 목소리를 내 귀로 들어봤을 때 느낌이. 내 목소리는 다른 사람 목소리에 비해 베이스 기질이 강한 거 같아.](https://gemini.google.com/share/1ba98c651834)
+[Is this called audio mixing, balancing the ratios of multiple overlapping sounds? Red is my voice frequency and blue is the game sound, what do you think? I'm applying this kind of equalizer to the game sound right now, and I'm wondering if I need to adjust it a bit. I don't know if you can tell just by looking at the frequency graph, but the feeling when I hear my voice with my own ears... My voice seems to have a stronger bass tendency compared to other people's voices.](https://gemini.google.com/share/1ba98c651834)
 
 28
 
-[2026년 4월 27일 19시 4분에 쓴 말 관련](https://gemini.google.com/share/e6e926d5c686) [[ko/sseun/2026/04|(2026년 4월 27일에 쓴 말은 이곳에 있다)]]
+[Regarding what I wrote at 19:04 on April 27, 2026](https://gemini.google.com/share/e6e926d5c686) [[en/sseun/2026/04|(What I wrote on April 27, 2026 is here)]]
 
 29
 
-[[en/gemini/2026/04/29|요즘 나는 동영상을 만드는데 '녹화하는 날-녹화와 편집 안 하는 날-편집하는 날-녹화와 편집 안 하는 날' 이렇게 하고 있는데 이게 왜 이렇게 됐을 거 같아. 네가 이것과 관련된 데이터를 접할 수 있을지 모르겠다. 내가 보기엔 사람들이 이런 말을 안 하려고 하는 거 같던데.]]
+(Local)[[en/gemini/2026/04/29|Lately, I've been making videos, and I'm doing it like 'Recording day - No recording/editing day - Editing day - No recording/editing day', why do you think it turned out like this? I don't know if you can access data related to this. From what I see, it seems like people try not to talk about this.]]
 
-[내가 디시인사이드 원펀맨 갤러리에서 이런 말을 하는 사람을 보았다. "정신 연령 높으면 만화 못 그려. 인방이랑 똑같음"](https://gemini.google.com/share/cd1d3124d5b1)
+[I saw a person saying this in the DC Inside One Punch Man Gallery. "You can't draw comics if your mental age is high. It's exactly the same as internet broadcasting."](https://gemini.google.com/share/cd1d3124d5b1)
 
 30
 
-[당신은 당신이 원피스에 대해 잘 안다 생각하시오? ](https://gemini.google.com/share/74c93f69f234)
+[Do you think you know a lot about One Piece?](https://gemini.google.com/share/74c93f69f234)
 
-[원피스가 소년 점프라면 나루토 블리치란 것도 소년 점프란 말인가](https://gemini.google.com/share/8af910fd9361)
+[If One Piece is Shonen Jump, does that mean Naruto and Bleach are also Shonen Jump?](https://gemini.google.com/share/8af910fd9361)
 
-[내가 어쩌다보니 어제 원피스를 나무위키를 통해서 내용을 제법 많이 읽게 되었는데. 원피스 나무위키 에디션.](https://gemini.google.com/share/496b4d350309)
+[Somehow I ended up reading quite a lot of One Piece content through Namuwiki yesterday. The One Piece Namuwiki Edition.](https://gemini.google.com/share/496b4d350309)
 
-[잠 안 와서 프로젝트 이러나 월드 잡이야기](https://gemini.google.com/share/f64082719a00)
+[Can't sleep, so chit-chat about Project Ireona World](https://gemini.google.com/share/f64082719a00)
 
 [[ko/gemini/2026/04/index|한글]]

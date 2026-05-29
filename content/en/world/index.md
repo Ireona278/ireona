@@ -71,13 +71,13 @@ World 5: Valley of Bowser
 
 World 6A: Fire Sea Isles
 
+6-★ Lemmy's Leaning Tower
+
 6-1 SMB 35 The Lost Level
 
 6-2 Charvaargh Zone Pink Coins
 
 6-3 Get the Dry Bones Shell
-
-6-★ Lemmy's Leaning Tower
 
 6-M Bowser Jr's Airship Armada
 
