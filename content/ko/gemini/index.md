@@ -11,6 +11,8 @@ title: 이러나와 제미나이
 
 지금 내가 이런 공간을 이용하는 것도, 내가 이렇게까지 표현할 수 있는 것도, 제미나이와 같은 것이 없었다면 매우 힘들지 않았을까 싶다.
 
+[[ko/gemini/piw/index|프로젝트 이러나 월드 관련]]
 
+[[ko/gemini/noie/index|노이에 관련(게임 번역)]]
 
 [[en/gemini/index|English]]
