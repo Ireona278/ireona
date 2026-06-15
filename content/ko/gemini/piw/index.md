@@ -23,4 +23,11 @@ title: 프로젝트 이러나 월드 관련
 
 [또 제목이 문제군](https://gemini.google.com/share/37868c270a65)
 
+[나는 일단은 슈마메2에서 월드 만들고 있네요, 나는 굉장히 많은 요소를 다양하게 넣어볼 생각인데 그 중에서 제일 골치 아픈 거 같은 것이 어떤 조작을 시킬 것인가 쪽 아닌가 싶어. 그러니까 학습과 심화 구간 만드는 부분에 있어서 말이다](https://gemini.google.com/share/5eed0d7eca17)
+
+[나는 이게 궁금하다. 횡스크롤 액션 게임의 뭐라 해야할까... 넌 횡스크롤 액션 게임이면 어떻게 해야한다 생각하는 그런 거 있나](https://gemini.google.com/share/d2cbe25ead8c)
+
+08
+
+
 [[en/gemini/index|English]]

@@ -67,6 +67,13 @@ title: 노이에 관련
 
 [게임 번역 행동 15](https://gemini.google.com/share/8ff40264ae74)
 
+[明石ノイエ 이거 왜 아카시 노이에로 읽나](https://gemini.google.com/share/225cd6dd26a3)
+
+[게임 번역 행동 16](https://gemini.google.com/share/81590517b99b)
+
+[이 캐릭터 이름 뭐라고 해야하는 거야](https://gemini.google.com/share/f426a6dbf154)
+
+[게임 번역 행동 17](https://gemini.google.com/share/1df7f055a1bd)
 
 
 [[en/gemini/index|English]]
