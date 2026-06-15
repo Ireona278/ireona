@@ -5,11 +5,11 @@ This place is a place called 'Ireona Obsidian.' Most of the words seen here are 
 
 Can I show in this spot just how many and how diverse expressions one person can make?
 
-[[en/sseun/index|Things I wrote down from what came to mind at that time, when I was in a state of wanting to write something without using Gemini]]
+[[en/gemini/index|Ireona and Gemini]]
 
 [[en/youtube/index|Ireona YouTube]]
 
-[[en/gemini/index|Ireona and Gemini]]
+[[en/sseun/index|Things I wrote down from what came to mind at that time, when I was in a state of wanting to write something without using Gemini]]
 
 I think the above three are the main of this place, or maybe not. The links below are other things.
 
