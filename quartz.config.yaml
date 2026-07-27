@@ -2,7 +2,7 @@
 configuration:
   pageTitle: 이러나 보이는 말
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
