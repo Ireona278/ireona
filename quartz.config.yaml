@@ -2,7 +2,7 @@
 configuration:
   pageTitle: 이러나 보이는 말
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
@@ -157,6 +157,7 @@ plugins:
     layout:
       position: left
       priority: 50
+      display: desktop-only
   - source: "@quartz-community/graph"
     enabled: false
     layout:

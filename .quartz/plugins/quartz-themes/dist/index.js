@@ -733,6 +733,12 @@ var themeMetas = {
     variations: ["colorful-headings"],
     fonts: []
   },
+  acovia: {
+    name: "acovia",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   adrenaline: {
     name: "adrenaline",
     modes: ["dark", "light"],
@@ -745,6 +751,7 @@ var themeMetas = {
     variations: [],
     fonts: ["cantarell"]
   },
+  aera: { name: "aera", modes: ["dark", "light"], variations: [], fonts: [] },
   agate: {
     name: "agate",
     modes: ["light"],
@@ -758,6 +765,7 @@ var themeMetas = {
     fonts: []
   },
   agora: { name: "agora", modes: ["dark"], variations: [], fonts: [] },
+  air: { name: "air", modes: ["dark", "light"], variations: [], fonts: [] },
   "ak-sky-breeze": {
     name: "ak-sky-breeze",
     modes: ["light"],
@@ -801,8 +809,20 @@ var themeMetas = {
     variations: [],
     fonts: ["bricolage-grotesque", "roboto", "montserrat"]
   },
+  "an-old-hope": {
+    name: "an-old-hope",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   anarchy: {
     name: "anarchy",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "another-nord": {
+    name: "another-nord",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -827,6 +847,12 @@ var themeMetas = {
   },
   apathy: { name: "apathy", modes: ["dark"], variations: [], fonts: [] },
   apex: { name: "apex", modes: ["dark", "light"], variations: [], fonts: [] },
+  "apple-notes": {
+    name: "apple-notes",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   arcadia: {
     name: "arcadia",
     modes: ["dark", "light"],
@@ -897,6 +923,12 @@ var themeMetas = {
     variations: [],
     fonts: ["jetbrains-mono", "kalam"]
   },
+  awareai: {
+    name: "awareai",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   ayu: { name: "ayu", modes: ["dark", "light"], variations: [], fonts: [] },
   "ayu-dark": { name: "ayu-dark", modes: ["dark"], variations: [], fonts: [] },
   "ayu-light-mirage": {
@@ -965,6 +997,12 @@ var themeMetas = {
   },
   biggs: { name: "biggs", modes: ["dark", "light"], variations: [], fonts: [] },
   black: { name: "black", modes: ["dark"], variations: [], fonts: [] },
+  "black-and-white": {
+    name: "black-and-white",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   blackbird: { name: "blackbird", modes: ["dark"], variations: [], fonts: [] },
   blobob: {
     name: "blobob",
@@ -979,6 +1017,12 @@ var themeMetas = {
     fonts: []
   },
   blossom: { name: "blossom", modes: ["dark"], variations: [], fonts: [] },
+  "blue-ribbon": {
+    name: "blue-ribbon",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "blue-topaz": {
     name: "blue-topaz",
     modes: ["dark", "light"],
@@ -1046,6 +1090,12 @@ var themeMetas = {
   },
   "buena-vista": {
     name: "buena-vista",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  buisson: {
+    name: "buisson",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -1185,8 +1235,38 @@ var themeMetas = {
     fonts: []
   },
   claude: { name: "claude", modes: ["dark"], variations: [], fonts: [] },
+  "claude-code-orange": {
+    name: "claude-code-orange",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "claude-cream": {
+    name: "claude-cream",
+    modes: ["light"],
+    variations: [],
+    fonts: []
+  },
+  "claude-notes": {
+    name: "claude-notes",
+    modes: ["light"],
+    variations: [],
+    fonts: []
+  },
+  "claude-paper": {
+    name: "claude-paper",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "claude-warm": {
     name: "claude-warm",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  clawdia: {
+    name: "clawdia",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -1216,6 +1296,12 @@ var themeMetas = {
     fonts: []
   },
   codeazur: { name: "codeazur", modes: ["dark"], variations: [], fonts: [] },
+  "coding-agent": {
+    name: "coding-agent",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   coffee: {
     name: "coffee",
     modes: ["dark", "light"],
@@ -1265,6 +1351,7 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  composed: { name: "composed", modes: ["light"], variations: [], fonts: [] },
   composer: {
     name: "composer",
     modes: ["dark", "light"],
@@ -1276,6 +1363,12 @@ var themeMetas = {
     modes: ["dark"],
     variations: [],
     fonts: ["inconsolata"]
+  },
+  cordyceps: {
+    name: "cordyceps",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "cosmic-events": {
     name: "cosmic-events",
@@ -1382,12 +1475,14 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  darkcatto: { name: "darkcatto", modes: ["dark"], variations: [], fonts: [] },
   darkember: {
     name: "darkember",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
   },
+  darkrune: { name: "darkrune", modes: ["dark"], variations: [], fonts: [] },
   darkyan: { name: "darkyan", modes: ["dark"], variations: [], fonts: [] },
   dashboard: { name: "dashboard", modes: ["light"], variations: [], fonts: [] },
   dawn: { name: "dawn", modes: ["dark", "light"], variations: [], fonts: [] },
@@ -1447,11 +1542,29 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  didadi: {
+    name: "didadi",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   discordian: {
     name: "discordian",
     modes: ["dark"],
     variations: [],
     fonts: ["catamaran"]
+  },
+  "dissociated-identitea": {
+    name: "dissociated-identitea",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  docgen: {
+    name: "docgen",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   doctorfree: {
     name: "doctorfree",
@@ -1527,7 +1640,14 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  ecdysis: { name: "ecdysis", modes: ["dark"], variations: [], fonts: [] },
   eldritch: { name: "eldritch", modes: ["dark"], variations: [], fonts: [] },
+  electrocution: {
+    name: "electrocution",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   elegance: {
     name: "elegance",
     modes: ["dark", "light"],
@@ -1536,6 +1656,13 @@ var themeMetas = {
   },
   elysian: {
     name: "elysian",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  ember: { name: "ember", modes: ["dark", "light"], variations: [], fonts: [] },
+  "ember-graphite": {
+    name: "ember-graphite",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -1564,14 +1691,32 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  enchanted: {
+    name: "enchanted",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   encore: {
     name: "encore",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
   },
+  "enhanced-canvas": {
+    name: "enhanced-canvas",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
   "enhanced-file-explorer-tree": {
     name: "enhanced-file-explorer-tree",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "esther-inspired": {
+    name: "esther-inspired",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -1685,6 +1830,7 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  flynt: { name: "flynt", modes: ["dark", "light"], variations: [], fonts: [] },
   focus: {
     name: "focus",
     modes: ["dark"],
@@ -1692,6 +1838,12 @@ var themeMetas = {
     fonts: ["jetbrains-mono"]
   },
   folio: { name: "folio", modes: ["dark", "light"], variations: [], fonts: [] },
+  "football-notes": {
+    name: "football-notes",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "forest-phosphor": {
     name: "forest-phosphor",
     modes: ["dark"],
@@ -1721,6 +1873,12 @@ var themeMetas = {
     modes: ["dark", "light"],
     variations: [],
     fonts: ["jetbrains-mono", "roboto"]
+  },
+  "frozen-kingdom": {
+    name: "frozen-kingdom",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   fusion: {
     name: "fusion",
@@ -1752,6 +1910,12 @@ var themeMetas = {
     modes: ["dark"],
     variations: [],
     fonts: ["ia-writer-quattro-s", "monaco"]
+  },
+  "geocities-98": {
+    name: "geocities-98",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "github-dark-dimmed": {
     name: "github-dark-dimmed",
@@ -1789,6 +1953,12 @@ var themeMetas = {
     variations: [],
     fonts: ["figtree", "jetbrains-mono"]
   },
+  "glass-scholar": {
+    name: "glass-scholar",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   glassmind: {
     name: "glassmind",
     modes: ["dark", "light"],
@@ -1806,6 +1976,12 @@ var themeMetas = {
     modes: ["dark", "light"],
     variations: [],
     fonts: ["lucida-handwriting", "monaco"]
+  },
+  gothic: {
+    name: "gothic",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "green-holiday": {
     name: "green-holiday",
@@ -1838,6 +2014,7 @@ var themeMetas = {
     variations: [],
     fonts: ["peace-sans", "space-grotesk"]
   },
+  "h2-os": { name: "h2-os", modes: ["light"], variations: [], fonts: [] },
   hackthebox: {
     name: "hackthebox",
     modes: ["dark"],
@@ -1877,6 +2054,12 @@ var themeMetas = {
   },
   harmonic: {
     name: "harmonic",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  hearthcode: {
+    name: "hearthcode",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -2040,6 +2223,7 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  hyo: { name: "hyo", modes: ["dark", "light"], variations: [], fonts: [] },
   "ia-writer": {
     name: "ia-writer",
     modes: ["dark", "light"],
@@ -2066,9 +2250,21 @@ var themeMetas = {
     fonts: []
   },
   ink: { name: "ink", modes: ["light"], variations: [], fonts: [] },
+  "ink-paper": {
+    name: "ink-paper",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   ion: { name: "ion", modes: ["dark"], variations: [], fonts: [] },
   iridium: {
     name: "iridium",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  islands: {
+    name: "islands",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -2241,11 +2437,23 @@ var themeMetas = {
     variations: [],
     fonts: ["roboto", "sf-mono"]
   },
+  "kami-reader": {
+    name: "kami-reader",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   kanagawa: {
     name: "kanagawa",
     modes: ["dark", "light"],
     variations: [],
     fonts: ["hack"]
+  },
+  "kanagawa-hokusai": {
+    name: "kanagawa-hokusai",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "kanagawa-palette": {
     name: "kanagawa-palette",
@@ -2289,6 +2497,12 @@ var themeMetas = {
     variations: [],
     fonts: ["formular"]
   },
+  lapfly: {
+    name: "lapfly",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   latex: {
     name: "latex",
     modes: ["dark", "light"],
@@ -2301,11 +2515,24 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  lattelogic: {
+    name: "lattelogic",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "lavender-mist": {
     name: "lavender-mist",
     modes: ["light"],
     variations: [],
     fonts: ["noto-serif-kr"]
+  },
+  lcars: { name: "lcars", modes: ["dark"], variations: [], fonts: [] },
+  lectern: {
+    name: "lectern",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "lemons-theme": {
     name: "lemons-theme",
@@ -2325,6 +2552,12 @@ var themeMetas = {
     variations: [],
     fonts: ["lato", "roboto", "work-sans"]
   },
+  likexp: {
+    name: "likexp",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   listive: {
     name: "listive",
     modes: ["dark", "light"],
@@ -2338,8 +2571,16 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  lockett: {
+    name: "lockett",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   lorens: { name: "lorens", modes: ["dark"], variations: [], fonts: [] },
+  love: { name: "love", modes: ["dark", "light"], variations: [], fonts: [] },
   lucid: { name: "lucid", modes: ["dark", "light"], variations: [], fonts: [] },
+  lucy: { name: "lucy", modes: ["dark", "light"], variations: [], fonts: [] },
   lumen: { name: "lumen", modes: ["dark", "light"], variations: [], fonts: [] },
   lumines: {
     name: "lumines",
@@ -2446,6 +2687,7 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  mia: { name: "mia", modes: ["dark", "light"], variations: [], fonts: [] },
   "miami-wind": {
     name: "miami-wind",
     modes: ["dark"],
@@ -2599,6 +2841,12 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  moremonocolor: {
+    name: "moremonocolor",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "mulled-wine": {
     name: "mulled-wine",
     modes: ["dark", "light"],
@@ -2653,9 +2901,21 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  "neon-acid": {
+    name: "neon-acid",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
   "neon-dracula": {
     name: "neon-dracula",
     modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
+  "neon-dreams": {
+    name: "neon-dreams",
+    modes: ["dark", "light"],
     variations: [],
     fonts: []
   },
@@ -2694,6 +2954,18 @@ var themeMetas = {
   nier: { name: "nier", modes: ["dark"], variations: [], fonts: [] },
   "night-owl": {
     name: "night-owl",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "night-owl-native": {
+    name: "night-owl-native",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
+  "night-ridge": {
+    name: "night-ridge",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -2795,7 +3067,25 @@ var themeMetas = {
   nous: { name: "nous", modes: ["dark", "light"], variations: [], fonts: [] },
   novadust: { name: "novadust", modes: ["dark"], variations: [], fonts: [] },
   novel: { name: "novel", modes: ["dark", "light"], variations: [], fonts: [] },
+  "nu-ayu": {
+    name: "nu-ayu",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   nyan: { name: "nyan", modes: ["dark", "light"], variations: [], fonts: [] },
+  "oat-latte": {
+    name: "oat-latte",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "ob-everforest": {
+    name: "ob-everforest",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "obsdn-dark-rmx": {
     name: "obsdn-dark-rmx",
     modes: ["dark"],
@@ -2936,9 +3226,23 @@ var themeMetas = {
     variations: [],
     fonts: ["cairo", "fira-code"]
   },
+  opal: { name: "opal", modes: ["dark", "light"], variations: [], fonts: [] },
+  opendian: {
+    name: "opendian",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  opus: { name: "opus", modes: ["dark", "light"], variations: [], fonts: [] },
   orange: {
     name: "orange",
     modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "orange-book-cloth": {
+    name: "orange-book-cloth",
+    modes: ["dark"],
     variations: [],
     fonts: []
   },
@@ -3107,6 +3411,18 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  "paper-source": {
+    name: "paper-source",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  paperglow: {
+    name: "paperglow",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "papyrus-nox": {
     name: "papyrus-nox",
     modes: ["dark"],
@@ -3114,6 +3430,12 @@ var themeMetas = {
     fonts: []
   },
   parfait: { name: "parfait", modes: ["light"], variations: [], fonts: [] },
+  "pastel-dusk": {
+    name: "pastel-dusk",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "pastel-yumekawa": {
     name: "pastel-yumekawa",
     modes: ["light"],
@@ -3132,7 +3454,14 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  perch: { name: "perch", modes: ["dark", "light"], variations: [], fonts: [] },
   perso: { name: "perso", modes: ["light"], variations: [], fonts: [] },
+  "phantom-flow": {
+    name: "phantom-flow",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   phoenix: {
     name: "phoenix",
     modes: ["dark", "light"],
@@ -3249,12 +3578,24 @@ var themeMetas = {
     variations: [],
     fonts: ["cascadia-code"]
   },
+  "primary-simplified": {
+    name: "primary-simplified",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   prime: { name: "prime", modes: ["dark", "light"], variations: [], fonts: [] },
   prism: {
     name: "prism",
     modes: ["dark", "light"],
     variations: [],
     fonts: ["jetbrains-mono", "source-sans-3"]
+  },
+  "programming-mono": {
+    name: "programming-mono",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "proper-dark": {
     name: "proper-dark",
@@ -3563,6 +3904,7 @@ var themeMetas = {
     variations: [],
     fonts: ["hack"]
   },
+  safi: { name: "safi", modes: ["dark", "light"], variations: [], fonts: [] },
   "saint-red-paper": {
     name: "saint-red-paper",
     modes: ["dark", "light"],
@@ -3726,6 +4068,18 @@ var themeMetas = {
     variations: [],
     fonts: ["slasher-film"]
   },
+  "sazure-glass": {
+    name: "sazure-glass",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
+  scanline: {
+    name: "scanline",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   scriptorium: {
     name: "scriptorium",
     modes: ["dark", "light"],
@@ -3840,6 +4194,12 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  solace: {
+    name: "solace",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   solarized: {
     name: "solarized",
     modes: ["dark", "light"],
@@ -3931,6 +4291,7 @@ var themeMetas = {
     variations: [],
     fonts: ["cascadia-code", "source-sans-pro"]
   },
+  srcery: { name: "srcery", modes: ["dark"], variations: [], fonts: [] },
   "standard-plus": {
     name: "standard-plus",
     modes: ["dark", "light"],
@@ -3939,6 +4300,13 @@ var themeMetas = {
   },
   "starlit-abyss": {
     name: "starlit-abyss",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  steam: { name: "steam", modes: ["dark"], variations: [], fonts: [] },
+  stratus: {
+    name: "stratus",
     modes: ["dark", "light"],
     variations: [],
     fonts: []
@@ -3956,11 +4324,18 @@ var themeMetas = {
     variations: [],
     fonts: ["monaco", "roboto"]
   },
+  sugar: { name: "sugar", modes: ["dark", "light"], variations: [], fonts: [] },
   sunbather: {
     name: "sunbather",
     modes: ["dark", "light"],
     variations: [],
     fonts: ["roboto"]
+  },
+  sunflex: {
+    name: "sunflex",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   superflat: {
     name: "superflat",
@@ -3987,11 +4362,23 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  termina: {
+    name: "termina",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   terminal: {
     name: "terminal",
     modes: ["dark"],
     variations: [],
     fonts: ["fira-code"]
+  },
+  "terminal-workbench": {
+    name: "terminal-workbench",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   terminal2k: {
     name: "terminal2k",
@@ -4047,7 +4434,19 @@ var themeMetas = {
     variations: [],
     fonts: ["anonymous-pro", "jetbrains-mono"]
   },
+  "tokyo-terminal-obsd": {
+    name: "tokyo-terminal-obsd",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
   tomorrow: { name: "tomorrow", modes: ["dark"], variations: [], fonts: [] },
+  "tomorrow-night-blue": {
+    name: "tomorrow-night-blue",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
   "tomorrow-night-bright": {
     name: "tomorrow-night-bright",
     modes: ["dark"],
@@ -4072,6 +4471,12 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  trailmark: {
+    name: "trailmark",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   transient: { name: "transient", modes: ["dark"], variations: [], fonts: [] },
   transparent: {
     name: "transparent",
@@ -4082,6 +4487,12 @@ var themeMetas = {
   "true-black": {
     name: "true-black",
     modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
+  "ttrpg-rathgar-gold": {
+    name: "ttrpg-rathgar-gold",
+    modes: ["dark", "light"],
     variations: [],
     fonts: []
   },
@@ -4331,6 +4742,7 @@ var themeMetas = {
     variations: [],
     fonts: ["nightingale", "monaspace-neon"]
   },
+  umbra: { name: "umbra", modes: ["dark"], variations: [], fonts: [] },
   underwater: {
     name: "underwater",
     modes: ["dark", "light"],
@@ -4340,6 +4752,12 @@ var themeMetas = {
   universitario: {
     name: "universitario",
     modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  "unsent-letters": {
+    name: "unsent-letters",
+    modes: ["dark"],
     variations: [],
     fonts: []
   },
@@ -4597,6 +5015,12 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  "vesper-golden": {
+    name: "vesper-golden",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   "vesper-sandstorm": {
     name: "vesper-sandstorm",
     modes: ["dark", "light"],
@@ -4641,11 +5065,24 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  vitela: {
+    name: "vitela",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
+  void: { name: "void", modes: ["dark"], variations: [], fonts: [] },
   vortex: {
     name: "vortex",
     modes: ["dark", "light"],
     variations: [],
     fonts: ["rubik"]
+  },
+  "vscode-2026": {
+    name: "vscode-2026",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
   },
   "vscode-dark-modern": {
     name: "vscode-dark-modern",
@@ -4653,7 +5090,19 @@ var themeMetas = {
     variations: [],
     fonts: []
   },
+  "vscode-light-modern": {
+    name: "vscode-light-modern",
+    modes: ["light"],
+    variations: [],
+    fonts: []
+  },
   w95: { name: "w95", modes: ["light"], variations: [], fonts: [] },
+  "wake-up-samurai": {
+    name: "wake-up-samurai",
+    modes: ["dark"],
+    variations: [],
+    fonts: []
+  },
   "warm-burnout": {
     name: "warm-burnout",
     modes: ["dark", "light"],
@@ -4668,6 +5117,13 @@ var themeMetas = {
   },
   warmth: { name: "warmth", modes: ["dark"], variations: [], fonts: [] },
   wasp: { name: "wasp", modes: ["dark", "light"], variations: [], fonts: [] },
+  weiya: { name: "weiya", modes: ["dark", "light"], variations: [], fonts: [] },
+  "wide-view": {
+    name: "wide-view",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   wikipedia: {
     name: "wikipedia",
     modes: ["dark", "light"],
@@ -4698,6 +5154,7 @@ var themeMetas = {
     variations: [],
     fonts: ["karla", "open-sans"]
   },
+  wolai: { name: "wolai", modes: ["dark", "light"], variations: [], fonts: [] },
   wombat: { name: "wombat", modes: ["dark"], variations: [], fonts: [] },
   word_2019: {
     name: "word_2019",
@@ -4742,6 +5199,12 @@ var themeMetas = {
     fonts: ["jetbrains-mono", "roboto"]
   },
   zen: { name: "zen", modes: ["dark", "light"], variations: [], fonts: [] },
+  "zen-forest": {
+    name: "zen-forest",
+    modes: ["dark", "light"],
+    variations: [],
+    fonts: []
+  },
   zenburn: {
     name: "zenburn",
     modes: ["dark"],
@@ -4920,7 +5383,7 @@ var FONT_CSS = {
 };
 
 // src/fonts/font-tag.ts
-var FONT_TAG = "v4.0.11";
+var FONT_TAG = "v4.0.12";
 var FONT_BASE_URL = `https://cdn.jsdelivr.net/gh/saberzero1/quartz-themes@${FONT_TAG}/fonts`;
 
 // src/composer.ts
@@ -5657,6 +6120,11 @@ ${overrideCSS}
     }
   };
 };
+
+// src/index.ts
+console.warn(
+  "[quartz-themes] This package is deprecated. Install per-theme packages instead:\n  npm install @quartz-themes/core @quartz-themes/<your-theme>\n  See: https://github.com/quartz-themes/core#migration"
+);
 
 export { CALLOUT_ALIASES, CALLOUT_ICON_URIS as CALLOUT_ICON_MAP, CHECKBOX_ICON_URIS as CHECKBOX_ICON_MAP, QuartzTheme, QuartzTheme as QuartzThemes, QuartzTheme as default, generateCalloutIconCSS, generateCheckboxIconCSS, getAvailableThemes, getThemeMeta, loadTheme, QuartzTheme as quartzThemes, registerTheme, resolveCalloutIcon, resolveCheckboxIcon, resolveThemeId, QuartzTheme as transformer };
 //# sourceMappingURL=index.js.map
