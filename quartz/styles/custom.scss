@@ -1,7 +1,7 @@
 @use "./variables.scss" as *;
 
 /* ====================================================
-   모바일 전용 플로팅 목차 (버튼 찌그러짐 & 그림자 완벽 해결본)
+   모바일 전용 플로팅 목차 (나무위키 스타일 + 고급 유리창 블러 효과)
    ==================================================== */
 @media all and (max-width: 800px) {
   /* 1. 사이드바 투명 보호 필름 레이어 */
@@ -20,7 +20,7 @@
     display: none !important; 
   }
 
-  /* 2. 목차 컨테이너 (Flex 정렬) */
+  /* 2. 목차 컨테이너 (투명화) */
   body #quartz-root #quartz-body .right.sidebar .toc {
     display: flex !important;
     flex-direction: column-reverse !important;
@@ -31,32 +31,47 @@
     pointer-events: auto !important; 
     margin: 0 !important; padding: 0 !important;
     width: auto !important;
+    background: transparent !important;
+    box-shadow: none !important; 
+    border: none !important;
   }
 
-  /* 3. 햄버거 버튼 (찌그러짐 방지 & 기본 테두리 제거 적용) */
-  body #quartz-root #quartz-body .right.sidebar .toc button.toc-header {
-    position: relative !important;
-    z-index: 10 !important;
-    width: 52px !important; height: 52px !important;
-    flex-shrink: 0 !important; /* [핵심] 팝업이 열려도 절대 찌그러지지 않음 */
-    border-radius: 50% !important;
-    background: var(--tertiary) !important;
-    color: var(--light) !important;
-    border: none !important;
-    outline: none !important; /* [핵심] 클릭 시 생기는 기본 검은 테두리 제거 */
-    -webkit-tap-highlight-color: transparent !important; /* [핵심] 모바일 터치 시 생기는 음영 제거 */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3) !important; /* 우리가 원했던 예쁜 그림자만 남김 */
-    display: flex !important; align-items: center !important; justify-content: center !important;
-    padding: 0 !important; margin: 0 !important;
-    cursor: pointer !important;
-  }
+/* 3. 목차 플로팅 버튼 (이 부분만 수정하여 투명도/블러 조절) */
+body #quartz-root #quartz-body .right.sidebar .toc button.toc-header {
+  position: relative !important;
+  z-index: 10 !important;
+  width: 48px !important; height: 48px !important; 
+  flex-shrink: 0 !important; 
+  border-radius: 8px !important; 
+  
+  /* 블러(blur) 제거하고 단순 반투명 화이트만 적용 */
+  background: rgba(255, 255, 255, 0.4) !important; 
+  
+  border: 1px solid rgba(220, 220, 220, 0.8) !important; 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04) !important; 
+  
+  outline: none !important; 
+  -webkit-tap-highlight-color: transparent !important; 
+  
+  display: flex !important; align-items: center !important; justify-content: center !important;
+  padding: 0 !important; margin: 0 !important;
+  cursor: pointer !important;
+}
   
   body #quartz-root #quartz-body .right.sidebar .toc button.toc-header h3, 
   body #quartz-root #quartz-body .right.sidebar .toc button.toc-header svg { 
     display: none !important; 
   }
+  
+  /* 나무위키 스타일 목록(List) SVG 아이콘 */
   body #quartz-root #quartz-body .right.sidebar .toc button.toc-header::before { 
-    content: "≡" !important; font-size: 28px !important; 
+    content: "" !important; 
+    width: 22px !important;
+    height: 22px !important;
+    display: block !important;
+    background-color: #333333 !important;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 6h13v2H8V6zm0 5h13v2H8v-2zm0 5h13v2H8v-2zM3 6.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zm0 5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zm0 5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0z'/%3E%3C/svg%3E") no-repeat center / contain !important;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 6h13v2H8V6zm0 5h13v2H8v-2zm0 5h13v2H8v-2zM3 6.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zm0 5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zm0 5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0z'/%3E%3C/svg%3E") no-repeat center / contain !important;
   }
 
   /* 4. 팝업 창 */
@@ -90,4 +105,16 @@
     background: transparent !important;
     cursor: default !important;
   }
+
+/* 7. 야간 모드 전용 스타일 (미디어 쿼리 안쪽으로 이동 + 선택자 보강) */
+  body.theme-dark #quartz-root #quartz-body .right.sidebar .toc button.toc-header {
+    background: rgba(34, 34, 34, 0.4) !important; 
+    border: 1px solid rgba(255, 255, 255, 0.2) !important; 
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4) !important;
+  }
+
+  body.theme-dark #quartz-root #quartz-body .right.sidebar .toc button.toc-header::before {
+    background-color: #ffffff !important; 
+  }
 }
+
