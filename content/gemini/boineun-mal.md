@@ -36,3 +36,9 @@ title: 이러나 보이는 말 관련
 26
 
 [옵시디언과 같이 쓰는 쿼츠, 내가 쿼츠 5 쓰고 있는데. 이것저것 좀 알아볼게 있다(쿼츠 4에서 5로 넘어가는 과정)](https://share.gemini.google/E5UbVcAfXilN)
+
+28
+
+[옵시디언과 같이 쓰이는 쿼츠 5에 대한 이야기다(최적화, 모바일 목차 기능)](https://share.gemini.google/VNE647FFUVLp)
+
+[내가 옵시디언과 쿼츠를 활용해서 사이트 하나 돌리고 있는데. 최근 기능 이것저것 좀 알게 된 게 있거든. 그거에 따라서 기존 페이지 배치를 바꿔볼까, 그런 생각을 하고 있다](https://share.gemini.google/uH5bcFDNDx3A)

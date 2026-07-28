@@ -141,7 +141,11 @@ title: 노이에 관련
 
 [게임 번역 행동 17](https://gemini.google.com/share/1df7f055a1bd)
 
+[게임 번역 행동: 대략적인 뜻만 알기](https://share.gemini.google/pICiQtshMQOW)
+
 [게임 번역 행동 18](https://gemini.google.com/share/cf3a8b2f067a)
+
+10
 
 [게임 번역 행동 18 외전](https://gemini.google.com/share/7a4e3d5d2e2a)
 

@@ -3,17 +3,15 @@ title: 주제 기준으로 분류하지 않은 것
 ---
 ### [[gemini/2025|2025년]]
 
+12월
+
 01
 
 (짧)[슈퍼 마리오 메이커 2 코스 이름 번역](https://gemini.google.com/share/74094f8b480e)
 
-[게임 소리와 내 목소리 소리 크기 비율을 몇 LKFS 차이로 두는 게 이상적이라 할 수 있을까?](https://gemini.google.com/share/b2875d323783)
-
 02
 
 [데스크탑 컴퓨터를 서서 하는 것에 대해 어떻게 생각하는지](https://gemini.google.com/share/a58c729e7bc1)
-
-[프리미어 프로에서 오디오를 무손실로 내보내고 싶으면 파형 오디오가 최선이야?](https://gemini.google.com/share/86529dc6bb4c)
 
 [병무청에서 문자가 왔다](https://gemini.google.com/share/7dd31bfd481a)
 
@@ -21,45 +19,13 @@ title: 주제 기준으로 분류하지 않은 것
 
 [생략과 요약이란](https://gemini.google.com/share/ec2066f5466d)
 
-​07
-
-[2024년 10월 22일에 올린 영상 '자살을 결심해본 사람의 대화 요청'에 달린 댓글에 관한 이야기](https://gemini.google.com/share/217955637d25)
-
-​10
-
-[유튜브 영상 '내가 나를 살리기 위해 나를 반드시 죽여야겠다고 생각하게 된 이유' 썸네일 관련 대화](https://gemini.google.com/share/17ab43798aa9)
-
 ​12
 
 [내가 이전에도 너와 같은 모델에게 계속 등급 판단을 하는 대화를 하지 않았으면 좋겠다 했고 나는 그래서 최대한 등급 판단의 구조를 띄지 않은 글자 구조를 계속 사용했어. 근데 AI가 내 발언에 계속 등급판단을 붙이더군.](https://gemini.google.com/share/b98b53b19fa6)
 
-​15
-
-[마이크 설정 조정](https://gemini.google.com/share/ceb6a58695fb)
-
-​16
-
-[여전히 잠드는 것이 힘들군. 상황이 너무 꼬여있는 거 같다.](https://gemini.google.com/share/997aef755693)
-
-​19
-
-['내 실시간 목소리가 들어간 렛츠 플레이 같은 영상을 유튜브에 올리려고 하는데 이퀄라이저 같은 거 꼭 써야하는 걸까? 예를 들어 프리미어 프로의 파라메트릭 이퀄라이저나 멀티밴드 압축기 같은 거.' 라는 질문으로 시작한 대화에서 상대성과 절대성이란 단어를 사용하면 안 되는 이유를 깨달았다.](https://gemini.google.com/share/41cacb2207d7)
-
 ​21
 
 [제미나이 3, 빠른 모드? 사고 모드? Pro?](https://gemini.google.com/share/c5313d820cfc)
-
-​23
-
-[나는 개인 유튜브 채널을 운영 중인 사람인데 말이다. 요즘 영상을 자주 올리기가 힘들어진 것이 조금 고민이 된다. 이게 최선인 건지 좀 알아봐야겠어.](https://gemini.google.com/share/28d31d9e9d8c)
-
-​27
-
-[4일에 한 번, 30분짜리 길이의 유튜브 영상을 하나씩 올린다면 많이 올리는 편인 거 같소이까.](https://gemini.google.com/share/c50367839f87)
-
-​29
-
-[나는 이번 대화에서 내가 어떤 삶을 살아왔는가에 대한 얘기를 해보고자 한다. 그 중에서도 비디오 게임 제작과 관련된 얘기를 말야.](https://gemini.google.com/share/e88bded13883)
 
 ### [[gemini/2026|2026년]]
 
@@ -69,17 +35,7 @@ title: 주제 기준으로 분류하지 않은 것
 
 [잠을 잘 때 외에는 눕지 않는 것이 꼭 능사인 걸까.](https://gemini.google.com/share/cea5b87f32c4)
 
-07
-
-[어떤 사람에 대한 얘기를 해보고자 한다.](https://gemini.google.com/share/371d8ad8b69f)
-
-10
-
-(짧)[너 말이야. 혹시 슈퍼 마리오 월드(1990)에서 최종 보스전 중에 피치가 help 외칠 때 나오는 효과음의 음계 같은 걸 알고 있나?](https://gemini.google.com/share/fc6bcab4c195)
-
 11
-
-(짧)[슈퍼 마리오 월드(1990) 최종 보스 음악 말이야. 어떤 종류의 악기를 사용한 거지?](https://gemini.google.com/share/1250a3df69dd)
 
 [슈마메2에서 예전에 만든 코스와 컨셉만 같게 하고 완전 새로 만든 코스일 경우 둘의 관계를 뭐라고 부를 수 있을까?](https://gemini.google.com/share/c6fa0a29c361)
 
@@ -90,22 +46,6 @@ title: 주제 기준으로 분류하지 않은 것
 16
 
 (짧)[슈퍼 마리오 USA를 읽을 때 USA를 유 에스 에이로 읽나 유사로 읽나](https://gemini.google.com/share/283b9f988200)
-
-17
-
-[내가 유튜브 개인 채널을 운영하고 있는데. 채널에 올릴 동영상을 만들고 난 뒤에 업로드 하고 그 후에 동영상은 어떻게 취급할지를 고민 중이다.](https://gemini.google.com/share/66e213835574)
-
-18
-
-[내가, 유튜브 개인 채널 운영하기도 하는 사람인데. 좀 돌아보면서 앞으로는 어떻게 할지를 생각해보는 시간을 가지고 싶은 거 같다.](https://gemini.google.com/share/19f2e6103d30)
-
-19
-
-[이런 걸 뭐라고 부를 수 있을까. 내가 어제부터 진정이 잘 안 되는 거 같은데. 일단 턱근육 긴장이 제일 심한 거 같고 뭔가에 집중도 잘 안 되는 거 같은 그런? 정신이 산만하다 해야하나.](https://gemini.google.com/share/e3f170a452a2)
-
-21
-
-[26년 1월의 정신과](https://gemini.google.com/share/46259b21c025)
 
 22
 
@@ -918,8 +858,6 @@ title: 주제 기준으로 분류하지 않은 것
 
 12
 
-[건강검진 해야하냐고 물으면 너는 당연히 해야한다고 말할 건가? 온갖 이유 들면서? 건강검진의 존재가 사람의 건강을 악화시키는 것은 아닌가?](https://gemini.google.com/share/2544d472a873)
-
 [내가 서브노티카 2 녹화를 하는데 감마 설정 기본값이 2.2였는데 2.4로 올렸거든 잘하는 짓거리인지 모르겠네](https://gemini.google.com/share/59331eb9d872)
 
 13
@@ -977,8 +915,6 @@ title: 주제 기준으로 분류하지 않은 것
 [나는 비디오 게임을 찾고 있다](https://share.gemini.google/P9Z5K9RG44DH)
 
 [말투를 아십니까](https://share.gemini.google/apXK8gO7oDNQ)
-
-[너, 이 사진만 보고 저게 무슨 모델인지 알 수 있나, 저거 방금 엠빅뉴스라는 유튜브 채널에 방금 올라온 영상 스크린샷이거든. 내가 엠빅뉴스를 보는 건 아닌데 나의 어그로를 아주 제대로 끄는 거 같아서. 내용이 궁금해서 쭉 훑어본 거거든](https://share.gemini.google/N8WUZnW4Zyr0)
 
 25
 
@@ -1094,3 +1030,6 @@ title: 주제 기준으로 분류하지 않은 것
 
 (짧)[컴퓨터 본체 청소 주기](https://share.gemini.google/u8hlD392CKnr)
 
+28
+
+[이런 거 뭐라고 부르지. 보통 9칸 있는데 8칸 차있고 빈 공간으로 한 칸씩 옮기는 그런 퍼즐](https://share.gemini.google/ECnWaBfOgYjm)
