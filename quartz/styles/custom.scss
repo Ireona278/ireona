@@ -4,30 +4,32 @@
    모바일 전용 플로팅 목차 (나무위키 스타일 + 고급 유리창 블러 효과)
    ==================================================== */
 @media all and (max-width: 800px) {
-  /* 1. 사이드바 투명 보호 필름 레이어 */
+/* 1. 사이드바 투명 레이어 (전체 화면 100vh 대신 위치 제한 해제) */
   body #quartz-root #quartz-body .right.sidebar {
     display: block !important;
-    position: fixed !important;
-    top: 0 !important; left: 0 !important;
-    width: 100vw !important; height: 100vh !important;
+    position: static !important; /* 고정 높이 100vh 제거 */
     pointer-events: none !important; 
     z-index: 99999 !important;
     background: transparent !important;
     margin: 0 !important; padding: 0 !important;
+    width: auto !important; height: auto !important;
   }
   
   body #quartz-root #quartz-body .right.sidebar > *:not(.toc) { 
     display: none !important; 
   }
 
-  /* 2. 목차 컨테이너 (투명화) */
+  /* 2. 목차 컨테이너 (absolute 대신 fixed로 브라우저 하단에 절대 고정) */
   body #quartz-root #quartz-body .right.sidebar .toc {
     display: flex !important;
     flex-direction: column-reverse !important;
     align-items: flex-end !important;
     gap: 15px !important; 
-    position: absolute !important;
+    
+    /* absolute -> fixed 로 변경하여 주소창 변화에도 위치 고정 */
+    position: fixed !important; 
     bottom: 25px !important; right: 20px !important;
+    
     pointer-events: auto !important; 
     margin: 0 !important; padding: 0 !important;
     width: auto !important;
@@ -35,7 +37,7 @@
     box-shadow: none !important; 
     border: none !important;
   }
-
+  
 /* 3. 목차 플로팅 버튼 (이 부분만 수정하여 투명도/블러 조절) */
 body #quartz-root #quartz-body .right.sidebar .toc button.toc-header {
   position: relative !important;
