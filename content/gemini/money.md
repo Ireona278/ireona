@@ -1,7 +1,39 @@
 ---
-title: 녹화하는 날-녹화와 편집 안 하는 날
+title: 돈에 대한 나의 생각 관련
 ---
->[!NOTE]- 변경 전 '이러나 옵시디언' 페이지 내용(펼치기·접기)
+1월
+
+01
+
+[2026년이네.](https://gemini.google.com/share/d8408fc6475a)
+
+07
+
+[지금 현대인들 말이야 돈이란 걸 중력이라던가 공기라던가 그런 것과 비슷한 차원의 것으로 보거나 그것들 보다 더 중요하게 여기는 거 같지 않아?](https://gemini.google.com/share/20a73d76ac2c)
+
+13
+
+['머니코치 최준호 네이버 마케팅 1타'라는 유튜브 채널의 최준호.](https://gemini.google.com/share/6c857f6cb1c1)
+
+3월
+
+06
+
+[오늘의 신경 쓰이는 다른 사람의 문법 표현, "전세계에서 유일하게 돈을 1순위로 뽑는 한국 사회" 라고 말하는 사람이 있더군.](https://gemini.google.com/share/fb8b871759c2)
+
+4월
+
+01
+
+[돈](https://gemini.google.com/share/86e6ce265b8c)
+
+21
+
+[돈은 겁나 처맞아야 한다](https://gemini.google.com/share/127acdfd106d)
+
+29
+
+>[!NOTE]- (공)요즘 나는 동영상을 만드는데 '녹화하는 날-녹화와 편집 안 하는 날-편집하는 날-녹화와 편집 안 하는 날' 이렇게 하고 있는데 이게 왜 이렇게 됐을 거 같아. 네가 이것과 관련된 데이터를 접할 수 있을지 모르겠다. 내가 보기엔 사람들이 이런 말을 안 하려고 하는 거 같던데.(펼치기·접기)
 >대화 기간: 2026년 04월 29일 08시 40분~2026년 04월 29일 11시 48분 + 2026년 05월 6일 14시 22분
 >
 ><div style="aspect-ratio: 16 / 9; width: 100%; max-width: 500px; margin: 0; border-radius: 12px; overflow: hidden;"> <iframe src="https://www.youtube.com/embed/o3n35PzN_G8" style="width: 100%; height: 100%; border: 0;" allowfullscreen></iframe> </div>
@@ -198,3 +230,33 @@ title: 녹화하는 날-녹화와 편집 안 하는 날
 >여전히 안 되는군. 내가 제미나이를 오랫동안 사용했는데 이런 적은 처음이다. 말 계속 생성은 되는데 여전히 공유가 안 돼.
 >
 >링크가 안 된다면 내가 또 다른 방법을 떠올릴 순 있지. 대화 기록 자체는 남아있으니 화면 녹화를 해서 동영상으로 공유한다거나 하는 것. 아니면 복사 붙여넣기 해서 글로 공유하던가
+
+5월
+
+22
+
+[내가 녹두로 갤러리 좀 보다가 이런 댓글을 봤었는데 지금은 지워짐. 구체적인 내용은 기억 안 나는데 이거는 기억이 난다. "세상에 공짜는 없다" 이런 말이 있었지 내가 이 말이 나온 게 굉장히 신경 쓰였고.](https://gemini.google.com/share/9529a7dca3b0)
+
+7월
+
+15
+
+[너 주식이란 것에 대해 어떻게 알고 있니](https://share.gemini.google/Ap2pRS8qtypW)
+
+[난 주식이 비트코인이나 로또, 도박과 비슷한 거 같다고 보았는데 넌 어떠나](https://share.gemini.google/ilY9Z6ee3ypC)
+
+24
+
+[내가 요즘 이런 걸 너무 안 한 거 같은데 슬슬 해야할 거 같아, 근데 잘할 자신 없어. 주제가 무엇인가... 지금 내게서 떠오르는 글말은 이것이다. 돈에게 시비털기](https://share.gemini.google/IvjuopdyhIGr)
+
+26
+
+[내가 뭔가를 겪었는데. 지금 내가 이거를 말하고 싶어하는 상태인지 잘 모르겠다.(누나와 나 사이에서 벌어진 일 1)](https://share.gemini.google/v6deDTRX0bCL)
+
+27
+
+[선풍기 나사 이야기로 시작하는 누나와 나 사이에서 벌어진 일 2](https://share.gemini.google/TZRNZIGYyiAS)
+
+[나는 지금 다른 사람들이 무슨 말을 하고 있는지 꾸준히 확인을 하는 버릇을 가지고 있다고 여기고 있어(프로젝트 좀보이드 갤러리에서 어떤 글 보고 자극 받음 1)](https://share.gemini.google/qI8SC221FoF6)
+
+[프로젝트 좀보이드 갤러리에서 어떤 글 보고 자극 받음 2](https://share.gemini.google/FvYg05SBFrIG)
