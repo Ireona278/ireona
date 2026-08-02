@@ -1033,3 +1033,29 @@ title: 주제 기준으로 분류하지 않은 것
 28
 
 [이런 거 뭐라고 부르지. 보통 9칸 있는데 8칸 차있고 빈 공간으로 한 칸씩 옮기는 그런 퍼즐](https://share.gemini.google/ECnWaBfOgYjm)
+
+29
+
+[내가 이런 생각이 들었는데 어떻게 생각함. 대충 한국어 같은 거. 이거 다른 언어에 비해 말 끝부분 반복이 심한 편인가](https://share.gemini.google/VKBlYFvTS24s)
+
+30
+
+(짧)[아마도 피곤해서 입안 헐고 그렇게 된 거 이거 낫는 거 원래 오래걸리나. 17일 정도부터 그렇게 된 걸로 여기고 있는데 그때보다 많이 나아진 거 같긴 해도 여전히 욱신거리긴 해서](https://share.gemini.google/kHnmzEAhUh8S)
+
+[내가 하기 싫은 얘기가 있는데 할까?](https://share.gemini.google/hRcXLSIWnNv8)
+
+31
+
+(짧)[내 말을 심각하게 받아들이려고도 하지 말고 안 심각하게 받아들이려고도 하지 말아달라](https://share.gemini.google/wA12vjc5GtlE)
+
+### 8월
+
+01
+
+[이게 뭐 같냐(2026년 7월 28일에 한 대화 '지금 나는 이런 말이 떠오른다. 지금 사람들, 돈에 대해 뭐라고 하는 걸 되게 꺼려하는 건가?' 내용 관련)](https://share.gemini.google/j0DZ6zvaUXWp)
+
+[넌 네가 인터넷 생방송 같은 것에 대해 잘 안다고 생각하나](https://share.gemini.google/AqqWz6oJ3KEq)
+
+02
+
+[100년이라 하면 긴 거 같은데 36500일이라 하면 짧은 거 같지 않아? 어른? 성인?](https://share.gemini.google/fV6u92GqErqV)

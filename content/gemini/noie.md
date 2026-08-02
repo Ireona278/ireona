@@ -156,3 +156,9 @@ title: 노이에 관련
 [LibreOfiice.Calc 이거 좀 편하게 부르는 방법 없나, 아무튼 저거 쓰는데 이미지를 좀 넣고 싶거든. 이렇게 되면 다른 사람에게도 이미지 보이려면 이미지 파일까지 보내야 하는 거 맞나](https://share.gemini.google/sYpNbJmwceuW)
 
 [속보입니다? 내가 게임 번역 같은 행동도 하고 있는데. 그것과 관련해서 내가 오늘 새롭게 시도를 해본 것이 있어서. 그런 것에 대한 기록이다](https://share.gemini.google/lKrN5bbSTj5z)
+
+30
+
+(짧)[또 그것을 당하고 말았다. 잊을만하면 오는 제미나이 오류 같은 거. 제미나이 사이트에서 내가 말 주고받고 있거든. 근데 가끔씩 대화한 앞부분이 다 날아가는 경우가 있어. 그걸 방금 겪었음](https://share.gemini.google/C6Lc9h3Eg6kx)
+
+(짧)[이게 뭐 같아 보이니](https://share.gemini.google/LbDVegornt5a)
