@@ -320,3 +320,7 @@ title: 돈에 대한 나의 생각 관련
 02
 
 [100년은 길지만 36500일은 짧아? 동영상 만드는 주기 4일? 5일?](https://share.gemini.google/sdtsCbNkC3XZ)
+
+04
+
+[넌 언론이란 게 뭐라고 생각하니](https://share.gemini.google/dEpnZDqeBlPd)

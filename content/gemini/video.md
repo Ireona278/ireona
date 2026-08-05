@@ -120,3 +120,11 @@ title: 동영상 관련
 02
 
 [100년은 길지만 36500일은 짧아? 동영상 만드는 주기 4일? 5일?](https://share.gemini.google/sdtsCbNkC3XZ)
+
+04
+
+[내가 윾튜브에 영상 올릴 건데. 제목으로 이런 걸 생각 중인데 뭐가 더 더 일 거 같니, "내가 슈마메에서 모든 코스에 좋아요를 누르게 된 이유" vs "내가 좋아요만 누르게 된 이유"](https://share.gemini.google/c1ogCWr3T1Zj)
+
+[슈마메2 코스 제목 번역하는 김에 좋아요 누르는 이유에 대해서도 말해보기](https://share.gemini.google/5au5gYebCpaL)
+
+(짧)[이거 내가 유튜브 영상에서 한 말인데. 흐름이 어떻게 되는 거 같니. 유튜브 자동 자막이다](https://share.gemini.google/c5dqLHn3KEjj)

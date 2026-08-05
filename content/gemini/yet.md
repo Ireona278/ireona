@@ -1048,7 +1048,7 @@ title: 주제 기준으로 분류하지 않은 것
 
 (짧)[내 말을 심각하게 받아들이려고도 하지 말고 안 심각하게 받아들이려고도 하지 말아달라](https://share.gemini.google/wA12vjc5GtlE)
 
-### 8월
+8월
 
 01
 
@@ -1059,3 +1059,25 @@ title: 주제 기준으로 분류하지 않은 것
 02
 
 [100년이라 하면 긴 거 같은데 36500일이라 하면 짧은 거 같지 않아? 어른? 성인?](https://share.gemini.google/fV6u92GqErqV)
+
+03
+
+[크롬으로 제미나이 쓰는 거 별로야? 뭐 이런 말이 있어서 크롬 쿠키가 제미나이 오류의 원인이 되기도 한다](https://share.gemini.google/KiqtQI4H7zIN)
+
+[팀포2, 포유나 관련 잡담](https://share.gemini.google/9Hkmk4LpPSoP)
+
+[잠이 안 와서 잡담을 하려고 했는데 "그럼 여기서 내 의문은 이것이다. 자신이나 다른 사람을 향해서 지능이나 능력의 높낮이가 어떻다 말하는 사람은 지능 높은 사람이냐?" 왜 이런 말을 하게 되는 거지?](https://share.gemini.google/qUi3UrnC9xx7)
+
+04
+
+[식물 물 줄 때 그냥 물 대신 과산화수소수를 섞은 물을 흠뻑줘도 된다고 하던데 그게 정말 사실인가요?](https://share.gemini.google/AMinA5zVAkY9)
+
+[영상 편집하고 업로드하고 난 뒤가 제일 힘든 상태 같기도 한데. 그냥 지금이기 때문인 걸까.](https://share.gemini.google/VGR85o8DmyPU)
+
+05
+
+[너 비문이란 걸 어떻게 알고 있지? 내가 드는 생각은 이런 거다. 그거 뜻에 어색한 문장이라는 게 들어가 있잖아. 근데 어색하다고 느끼는 단위 하나하나는 한 사람일 수밖에 없잖아. 한 사람이 어색하다 느낀 것을 함부로 틀린 것이라 불러도 되는 것일까. 경계스러워서](https://share.gemini.google/uBl2C90UIvDC)
+
+[팀포2 잘 하려면 어떻게 해야할까. 그런 거 아나](https://share.gemini.google/XbwYujgeXLWt)
+
+[집에서 쓰던 전기밥솥이 수명이 다한 거 같고. 나는 이런 생각이 들었다. 전기밥솥 꼭 써야하는 건가?](https://share.gemini.google/Z9w9LSNW9l7M)

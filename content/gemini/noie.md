@@ -162,3 +162,21 @@ title: 노이에 관련
 (짧)[또 그것을 당하고 말았다. 잊을만하면 오는 제미나이 오류 같은 거. 제미나이 사이트에서 내가 말 주고받고 있거든. 근데 가끔씩 대화한 앞부분이 다 날아가는 경우가 있어. 그걸 방금 겪었음](https://share.gemini.google/C6Lc9h3Eg6kx)
 
 (짧)[이게 뭐 같아 보이니](https://share.gemini.google/LbDVegornt5a)
+
+8월
+
+03
+
+[이러나-이러나가 돌린 제미나이 직역-원문-누군가가 돌린 AI 번역-eztrans 지금 이렇게 하고 있는데. 하나 더 추가해볼까 그런 생각 들어서.(게임 번역)](https://share.gemini.google/WLmofaN8xzAH)
+
+[사람이 저런 것을 작성하는 행동을 하는 것에 대해 너 뭐 할 얘기 있어?  난 이런 생각도 드는데, 저런 거 쓰기 전에 일단 저런 거 쓰는 사람이 자신이 무슨 사람인지 다들 볼 수 있게 최대한 밝히려고 한다거나 그런 거.(게임 번역, 직역)](https://share.gemini.google/E8Qqr5hajjRx)
+
+[게임 번역 발음 표기 작성](https://share.gemini.google/DxN0N1COSqZy)
+
+[게임 번역 관련 잡담](https://share.gemini.google/ZHDngRhNZMxl)
+
+[리브레오피스 캘크에 이런 기능이 있나, 특정 문자를 줄바꿈으로 바꾸는 거](https://share.gemini.google/XZlhSx8dptgg)
+
+05
+
+[게임 번역 행동, 오프닝 부분 다듬기](https://share.gemini.google/bPtL5UAqevCe)
