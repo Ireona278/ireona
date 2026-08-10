@@ -128,3 +128,7 @@ title: 동영상 관련
 [슈마메2 코스 제목 번역하는 김에 좋아요 누르는 이유에 대해서도 말해보기](https://share.gemini.google/5au5gYebCpaL)
 
 (짧)[이거 내가 유튜브 영상에서 한 말인데. 흐름이 어떻게 되는 거 같니. 유튜브 자동 자막이다](https://share.gemini.google/c5dqLHn3KEjj)
+
+07
+
+[생이러나 채널 운영 방식 변경](https://share.gemini.google/9KhXPP7UoStB)

@@ -1081,3 +1081,22 @@ title: 주제 기준으로 분류하지 않은 것
 [팀포2 잘 하려면 어떻게 해야할까. 그런 거 아나](https://share.gemini.google/XbwYujgeXLWt)
 
 [집에서 쓰던 전기밥솥이 수명이 다한 거 같고. 나는 이런 생각이 들었다. 전기밥솥 꼭 써야하는 건가?](https://share.gemini.google/Z9w9LSNW9l7M)
+
+
+06
+
+[너 이런 거 별로 들어본 적 없나 나 되게 빈번하게 겪고있는데. 이거 예방 불가인가.(제미나이 사이트 대화 날아가는 오류 얘기)](https://share.gemini.google/kejzSnyqJY9k)
+
+07
+
+[프로젝트 좀보이드 갤러리에 이런 글이 올라왔다.(대충 저작권 얘기 같은 거)](https://share.gemini.google/UPzXKTiFEY7m)
+
+08
+
+[내가 냄비밥을 할 것인데](https://share.gemini.google/UtYetLnUOVG2)
+
+10
+
+[べすとまん 이거 뭐라고 읽니](https://share.gemini.google/9F4L1n3flKzo)
+
+[디시 같은 곳에서 아스퍼거라는 말이 자주 쓰이는 거 같던데](https://share.gemini.google/hRVP3tsPEDku)

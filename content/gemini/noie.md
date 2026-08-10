@@ -180,3 +180,16 @@ title: 노이에 관련
 05
 
 [게임 번역 행동, 오프닝 부분 다듬기](https://share.gemini.google/bPtL5UAqevCe)
+
+06
+
+[내가 알만툴 게임 번역 중인데 내가 덜 부담을 가지고 번역할 수 있는 방법에 대해 좀 얘기해볼까 항다.](https://share.gemini.google/7TtjpHe1KzMH)
+
+[내가 일본말을 보여줄 것인데. 그것을 한글로다가 발음을 적어다오. 뭔지 알겠지](https://share.gemini.google/ekJ4z73fYQmU)
+
+[날아간 대화 복구 1/3: 내가 게임 번역 행동을 하다보니 이런 생각이 들었다. 원문에 쓰인 말을 옮기려고 집중하는 것보다는 캐릭터가 대사를 할 때 무엇을 말하고자 하는지를 파악해서 그것을 토대로 내 기준으로 대사를 다시 쓰는 게 오히려 더 괜찮은 것은 아닐까](https://share.gemini.google/JPN3O71685al)
+
+[날아간 대화 복구 2/3](https://share.gemini.google/l1SjLm4K8HmR)
+
+[날아간 대화 복구 3/3: 아까 고집 어쩌고 말한 것과 비슷하게 지금 살아있는 사람들 범죄라는 말을 많이 하는 거 같던데. 범죄도 이거 아냐. 내 마음에 안 드는 행동이다 말하는 대신에 저건 범죄다 하는 거. 그렇게 말하는 게 범죄에 해당 안 할 수가 있나?](https://share.gemini.google/c7OTVVm7ZORy)
+
