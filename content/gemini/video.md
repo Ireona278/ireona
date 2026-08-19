@@ -132,3 +132,14 @@ title: 동영상 관련
 07
 
 [생이러나 채널 운영 방식 변경](https://share.gemini.google/9KhXPP7UoStB)
+
+13
+
+[내가 내 목소리 포함된 게임 플레이 영상 같은 걸 만드는데 유난히 거슬리는 게임 효과음이 있어(슈퍼 퍼즐드 캣 영상)](https://share.gemini.google/ciHHsIDovEYV)
+
+[내가 뭔가 게임 플레이 영상 같은 거 합본을 만들 생각인데. 길이 어느정도로 하는 게 괜찮을지 고민이다](https://share.gemini.google/0f4ZE9cLiLZU)
+
+17
+
+[내가 게임 소리와 내 목소리가 같이 들어가는 영상을 만드는데. 게임 소리 트랙에 쓰는 이퀄라이저 저거, 범용적으로 쓸 수 있을 거 같나](https://share.gemini.google/cvVEMvu9VlhO)
+

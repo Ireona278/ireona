@@ -977,39 +977,43 @@ title: 주제 기준으로 분류하지 않은 것
 
 [크롬으로 제미나이 쓰는 거 별로야? 뭐 이런 말이 있어서 크롬 쿠키가 제미나이 오류의 원인이 되기도 한다](https://share.gemini.google/KiqtQI4H7zIN)
 
-[팀포2, 포유나 관련 잡담](https://share.gemini.google/9Hkmk4LpPSoP)
-
 [잠이 안 와서 잡담을 하려고 했는데 "그럼 여기서 내 의문은 이것이다. 자신이나 다른 사람을 향해서 지능이나 능력의 높낮이가 어떻다 말하는 사람은 지능 높은 사람이냐?" 왜 이런 말을 하게 되는 거지?](https://share.gemini.google/qUi3UrnC9xx7)
 
 04
 
-[식물 물 줄 때 그냥 물 대신 과산화수소수를 섞은 물을 흠뻑줘도 된다고 하던데 그게 정말 사실인가요?](https://share.gemini.google/AMinA5zVAkY9)
-
 [영상 편집하고 업로드하고 난 뒤가 제일 힘든 상태 같기도 한데. 그냥 지금이기 때문인 걸까.](https://share.gemini.google/VGR85o8DmyPU)
-
-05
-
-[너 비문이란 걸 어떻게 알고 있지? 내가 드는 생각은 이런 거다. 그거 뜻에 어색한 문장이라는 게 들어가 있잖아. 근데 어색하다고 느끼는 단위 하나하나는 한 사람일 수밖에 없잖아. 한 사람이 어색하다 느낀 것을 함부로 틀린 것이라 불러도 되는 것일까. 경계스러워서](https://share.gemini.google/uBl2C90UIvDC)
-
-[팀포2 잘 하려면 어떻게 해야할까. 그런 거 아나](https://share.gemini.google/XbwYujgeXLWt)
-
-[집에서 쓰던 전기밥솥이 수명이 다한 거 같고. 나는 이런 생각이 들었다. 전기밥솥 꼭 써야하는 건가?](https://share.gemini.google/Z9w9LSNW9l7M)
-
-
-06
-
-[너 이런 거 별로 들어본 적 없나 나 되게 빈번하게 겪고있는데. 이거 예방 불가인가.(제미나이 사이트 대화 날아가는 오류 얘기)](https://share.gemini.google/kejzSnyqJY9k)
-
-07
-
-[프로젝트 좀보이드 갤러리에 이런 글이 올라왔다.(대충 저작권 얘기 같은 거)](https://share.gemini.google/UPzXKTiFEY7m)
-
-08
-
-[내가 냄비밥을 할 것인데](https://share.gemini.google/UtYetLnUOVG2)
 
 10
 
 [べすとまん 이거 뭐라고 읽니](https://share.gemini.google/9F4L1n3flKzo)
 
-[디시 같은 곳에서 아스퍼거라는 말이 자주 쓰이는 거 같던데](https://share.gemini.google/hRVP3tsPEDku)
+11
+
+[이거 유튜브 자동 자막 파일인데, 내가 게임 얘기 본격적으로 시작하기 전에 이야기의 흐름, 주제 같은 것을 네가 정리해줬으면 좋겠어서.(2026월 08월 08일 영상)](https://share.gemini.google/Jq7wzm5Ou7Cy)
+
+
+14
+
+[이거 내용 확인할 수 있지 유튜브 자동자막인데. 처음부터 17:23까지 적당히 다듬어서 내용 쫙 출력해봐(2026월 08월 13일 영상)](https://share.gemini.google/a3NQQQOg1HPl)
+
+[2026월 08월 13일 영상에서 내가 말했던 8월 10일의 나의 상태에 대해 얘기를 좀 더 하고 싶어.](https://share.gemini.google/2S9rgtluUs1Q)
+
+15
+
+[내가 최근 어도비의 그늘에서 벗어나고 싶다 라는 말이 떠오르고 있는데. 이게 무슨 말인지 알겠니](https://share.gemini.google/swSlh9okvBRU)
+
+16
+
+[내가 프리미어 프로를 다빈치 리졸브로 바꿔볼까 하고 있거든. 어떤 제미나이가 말하길 다빈치 리졸브는 어도비 오디션도 일정 부분 대체할 수 있다던데 그렇나? ... 프리미어 프로 같은 것이 돈을 받고 팔고 있으니까 돈 안 받는 프로그램은 그만큼 자신보다 성능 뛰어나게 못 만들도록 그런 걸 분명 해야할 거 같다고 난 생각되는데. 어디까지나 그게 안 드러난 거지 네가 그걸 모른다고 안 그러고 있는 거야?](https://share.gemini.google/vMQV49edkHSK)
+
+[컴퓨터란 것은 참으로 묘한 거 같아](https://share.gemini.google/XPmeDLvyeWFY)
+
+[내가 쓰는 프로그램 최적화를 좀 생각하고 싶은데](https://share.gemini.google/dKhDKPmbSy2P)
+
+(짧)[뭔가 별로 문제점이 없는 영상 편집 소프트웨어는 없는 건가](https://share.gemini.google/c2jqbmTMIYys)
+
+17
+
+(짧)[audacity 쓰는 법 아나, LUFS 측정을 하고 싶은데](https://share.gemini.google/NT7ux7PsHvzt)
+
+(짧)[케이드도 있고 게이트도 있고 케이트도 있는데 게이드는 없는 거냐?](https://share.gemini.google/L0DTu1eXWnVd)
