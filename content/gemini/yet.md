@@ -13,8 +13,6 @@ title: 주제 기준으로 분류하지 않은 것
 
 [데스크탑 컴퓨터를 서서 하는 것에 대해 어떻게 생각하는지](https://gemini.google.com/share/a58c729e7bc1)
 
-[병무청에서 문자가 왔다](https://gemini.google.com/share/7dd31bfd481a)
-
 ​05
 
 [생략과 요약이란](https://gemini.google.com/share/ec2066f5466d)
@@ -989,14 +987,14 @@ title: 주제 기준으로 분류하지 않은 것
 
 11
 
-[이거 유튜브 자동 자막 파일인데, 내가 게임 얘기 본격적으로 시작하기 전에 이야기의 흐름, 주제 같은 것을 네가 정리해줬으면 좋겠어서.(2026월 08월 08일 영상)](https://share.gemini.google/Jq7wzm5Ou7Cy)
+[이거 유튜브 자동 자막 파일인데, 내가 게임 얘기 본격적으로 시작하기 전에 이야기의 흐름, 주제 같은 것을 네가 정리해줬으면 좋겠어서.(2026년 08월 08일 영상)](https://share.gemini.google/Jq7wzm5Ou7Cy)
 
 
 14
 
-[이거 내용 확인할 수 있지 유튜브 자동자막인데. 처음부터 17:23까지 적당히 다듬어서 내용 쫙 출력해봐(2026월 08월 13일 영상)](https://share.gemini.google/a3NQQQOg1HPl)
+[이거 내용 확인할 수 있지 유튜브 자동자막인데. 처음부터 17:23까지 적당히 다듬어서 내용 쫙 출력해봐(2026년 08월 13일 영상)](https://share.gemini.google/a3NQQQOg1HPl)
 
-[2026월 08월 13일 영상에서 내가 말했던 8월 10일의 나의 상태에 대해 얘기를 좀 더 하고 싶어.](https://share.gemini.google/2S9rgtluUs1Q)
+[2026년 08월 13일 영상에서 내가 말했던 8월 10일의 나의 상태에 대해 얘기를 좀 더 하고 싶어.](https://share.gemini.google/2S9rgtluUs1Q)
 
 15
 
@@ -1017,3 +1015,6 @@ title: 주제 기준으로 분류하지 않은 것
 (짧)[audacity 쓰는 법 아나, LUFS 측정을 하고 싶은데](https://share.gemini.google/NT7ux7PsHvzt)
 
 (짧)[케이드도 있고 게이트도 있고 케이트도 있는데 게이드는 없는 거냐?](https://share.gemini.google/L0DTu1eXWnVd)
+
+
+

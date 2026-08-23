@@ -34,3 +34,9 @@ title: a
 19
 
 [이런 거 따로 부르는 말 있나. 그냥 낮잠이라 하나. 낮에 15분 정도 잠 비스무리한 걸 취하는 그런 거](https://share.gemini.google/qDLIEbZXoYT4)
+
+(짧)[내가 이것저것 손빨래를 하고 있는데. 재질이 여러가지잖아. 이것 때문에 좀 골치아픈 거 같기도](https://share.gemini.google/Rhryzg3qng1e)
+
+20
+
+[화분의 날벌레?](https://share.gemini.google/phfr0ZoZzqOL)

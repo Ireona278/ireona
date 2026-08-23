@@ -1,6 +1,12 @@
 ---
 title: b
 ---
+2025년
+
+02
+
+[병무청에서 문자가 왔다](https://gemini.google.com/share/7dd31bfd481a)
+
 8월
 
 12

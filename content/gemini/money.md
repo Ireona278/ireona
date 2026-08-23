@@ -434,3 +434,7 @@ title: 돈에 대한 나의 생각 관련
 04
 
 [넌 언론이란 게 뭐라고 생각하니](https://share.gemini.google/dEpnZDqeBlPd)
+
+23
+
+[슬슬 또 이런 얘기를 해야할 때가 온 거 같군, 2026년 8월 23일 17:14에 원피스 버닝블러드 갤러리에 올라온 글이다. 이거 보면 너 무슨 말이 떠오르지. 제목: 여자들 << 돈은 되는데 작품성 다 망침 ...](https://share.gemini.google/kzCKjUkZxQnw)

@@ -20,3 +20,14 @@ title: c
 [누군가가 '36시간 단식을 몸 대청소 하려고 한다. 이거 하면 쓸모없는 세포 다 죽는다.' 그런 말을 하는 것을 내가 보았다. 나는 저걸 보고 이런 말이 떠올랐는데 넌 어떻게 생각하나. 먹는 것만 많이 먹고 많이 먹은만큼 힘을 안 써서 저런 말이 나오는 건가](https://share.gemini.google/4UtDWklpRwxV)
 
 [36시간 단식하면 쓸모없는 세포가 죽어? 근데 그 세포 찌꺼기 제거 방법이 단식만 있는 거라고 할 순 없지 않나](https://share.gemini.google/7nzOCQfoJSkB)
+
+19
+
+[내가 요즘 이런 말이 떠오르더라고, 보람. 왜 이런 말이 떠올랐을 거 같니](https://share.gemini.google/GGUpRT1B6Gjd)
+
+(짧)[보람이 느껴지지 않는다 싶은 일은 하지 못 하는 것이 이상한 것이오?](https://share.gemini.google/aEjTGRU0Ws1r)
+
+
+23
+
+[슬슬 또 이런 얘기를 해야할 때가 온 거 같군, 2026년 8월 23일 17:14에 원피스 버닝블러드 갤러리에 올라온 글이다. 이거 보면 너 무슨 말이 떠오르지. 제목: 여자들 << 돈은 되는데 작품성 다 망침 ...](https://share.gemini.google/kzCKjUkZxQnw)
