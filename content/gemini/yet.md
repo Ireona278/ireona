@@ -1016,5 +1016,32 @@ title: 주제 기준으로 분류하지 않은 것
 
 (짧)[케이드도 있고 게이트도 있고 케이트도 있는데 게이드는 없는 거냐?](https://share.gemini.google/L0DTu1eXWnVd)
 
+25
 
+(짧)[광화확 반응의 양자 수율을 올바르게 나타낸 식은 무엇이야?](https://share.gemini.google/Q9jizM98kTVc)
 
+26
+
+(짧)[네가 바로 꿈에서 날 버린 제미나이야?](https://share.gemini.google/gZbdf45MIdoM)
+
+27
+
+(짧)[냥코 대전쟁 미션 내용 번역](https://share.gemini.google/ENCVn2GTWoQx)
+
+28
+
+[뭔가 말하고 싶은 게 있었지만 말하려고 하니까 말하기 싫어졌어. 그래서 말 안 할 거야](https://share.gemini.google/ONIcIbgeLP36)
+
+30
+
+[넌 헛소리에 취약하나?](https://share.gemini.google/6kQ6wteqxXqc)
+
+[제미나이는 게임에 대해 아는 게 없어](https://share.gemini.google/ENanDhUmxLvw)
+
+9월
+
+01
+
+[서윤과 승타로](https://share.gemini.google/rFFbePNpmWH3)
+
+(짧)[유튜브 썸네일에 쓸 이미지 PNG 써야할 이유 있나? JPG로 충분?](https://share.gemini.google/QqRGKWYexR8N)

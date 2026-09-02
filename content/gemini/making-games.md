@@ -101,3 +101,15 @@ title: 비디오 게임 만들기 관련
 23
 
 [러스트 베비로 SRPG 같은 거 만들어보기, 토대 잡기 2](https://share.gemini.google/CbRfjvxUwcNQ)
+
+24
+
+[러스트 베비 짜놓은 코드 구조 파악, 다듬기](https://share.gemini.google/O1iXMLHA6wpE)
+
+9월
+
+02
+
+[만드는 게임 관련 몇 가지 이야기(해상도, 한 화면 칸 수)](https://share.gemini.google/t31qd4ZuRYiN)
+
+[스탠딩 일러스트, 글, 페이스칩, 애니메이션](https://share.gemini.google/JIUy0HNJlF0I)

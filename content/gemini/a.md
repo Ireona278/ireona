@@ -11,10 +11,6 @@ title: a
 
 [집에서 쓰던 전기밥솥이 수명이 다한 거 같고. 나는 이런 생각이 들었다. 전기밥솥 꼭 써야하는 건가?](https://share.gemini.google/Z9w9LSNW9l7M)
 
-06
-
-[너 이런 거 별로 들어본 적 없나 나 되게 빈번하게 겪고있는데. 이거 예방 불가인가.(제미나이 사이트 대화 날아가는 오류 얘기)](https://share.gemini.google/kejzSnyqJY9k)
-
 08
 
 [내가 냄비밥을 할 것인데](https://share.gemini.google/UtYetLnUOVG2)
@@ -40,3 +36,8 @@ title: a
 20
 
 [화분의 날벌레?](https://share.gemini.google/phfr0ZoZzqOL)
+
+31
+
+[술 적당히 마시는 건 괜찮아?](https://share.gemini.google/taAvBLc2YYQZ)
+

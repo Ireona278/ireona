@@ -27,7 +27,54 @@ title: c
 
 (짧)[보람이 느껴지지 않는다 싶은 일은 하지 못 하는 것이 이상한 것이오?](https://share.gemini.google/aEjTGRU0Ws1r)
 
-
 23
 
 [슬슬 또 이런 얘기를 해야할 때가 온 거 같군, 2026년 8월 23일 17:14에 원피스 버닝블러드 갤러리에 올라온 글이다. 이거 보면 너 무슨 말이 떠오르지. 제목: 여자들 << 돈은 되는데 작품성 다 망침 ...](https://share.gemini.google/kzCKjUkZxQnw)
+
+24
+
+[프좀갤에 어떤 글을 보고 내가 궁금한 것이 생겼지. 제목: 42.20.x 스테이블화는 너무 성급했던거 같아](https://share.gemini.google/DwOQEi8bc1tn)
+
+26
+
+[지금 내가 맛탱이가 간 거 같다는 말이 떠오르는데 이럴 땐 어떻게 해야할까. 그냥 너와 가벼운 주제로 아무거나 해야하나](https://share.gemini.google/PAreZmhEKOTL)
+
+[다음 대화를 보고 떠오르는 말을 해보시오.](https://share.gemini.google/DLuTONKuDkqL)
+
+[사람의 성욕 같은 것은 글말과 상극인 것인가?](https://share.gemini.google/h07UYBqxGwCQ)
+
+27
+
+[자신만의 세상에 빠져있다 이 말. 이렇게 말하는 사람이 자신만의 세상에 빠진 사람이 아닐 수 있을까?](https://share.gemini.google/6GWOHpqGcoSo)
+
+29
+
+[네가 지금 살아있는 사람이 아닌 제미나이임을 감안하고 말하겠다](https://share.gemini.google/7Pag0tWyVfss)
+
+[지금 나는 "머리를 안 쓰거나 덜 쓰면서 시간 보내는 방법을 모르곘다"라는 말이 떠오른다](https://share.gemini.google/vQltAuuEmTDt)
+
+[내가 캐릭터 대사를 못써?](https://share.gemini.google/idbRVpRelo7d)
+
+30
+
+[나는 심심하고, 그래서 너와 무슨 말을 주고받아 볼까 생각해보았는데. 이것이 떠올랐다 나는 성 관련 지식 같은 것이 충분한 걸까. 같은 생각?](https://share.gemini.google/GMfUCtXn0K2q)
+
+31
+
+[안 웃어도 돼?](https://share.gemini.google/VGxa6fRj19LL)
+
+9월
+
+01
+
+[지금과 같은 상황에서 사람의 성욕 같은 걸 해결하기 위해 굳이 여성기와 남성기를 합체시키는 그 행위를 해야하는 걸까?](https://share.gemini.google/cgqVy6aWaLP5)
+
+[술, 담배, 고카페인 다 안 하는 사람은 어떤 사람일까?](https://share.gemini.google/GcMM6yfJYqKX)
+
+[뭔가 나는 이럴 때, 후유증이라는 말이 떠오르는데. 이럴 때 후유증이라는 말을 쓰기엔 부적합 한 걸까?](https://share.gemini.google/7Tp8BJZU9ffs)
+
+02
+
+[견뭉이라는 이름으로 활동하는 사람을 아나](https://share.gemini.google/DXwvGnIi6kde)
+
+[오늘은 나에게 있어. 별 거 안 한 것처럼 느껴져야 하는 날이야?](https://share.gemini.google/XlejjcChk9mu)

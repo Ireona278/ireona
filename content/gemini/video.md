@@ -146,3 +146,8 @@ title: 동영상 관련
 22
 
 (짧)[유튜브에 올릴 영상 작업 거의 다 하긴 했는데. 마지막으로 게임 소리와 내 목소리 비율 괜찮은 건지 점검 그것만 남았거든. 근데 그걸 하기 싫어. 어카냐](https://share.gemini.google/lto2nak1qDJG)
+
+27
+
+(짧)[OBS에서 NVIDIA 소음 억제 필터 억제 강도 어느 정도로 해야할지](https://share.gemini.google/SwbO9TlRjhp5)
+
